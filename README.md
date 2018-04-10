@@ -1,8 +1,8 @@
 <div dir="rtl">
-# لیست بهترین پادکست‌های فارسی حوزه تکنولوژی و فناوری‌ اطلاعات ![badge](https://img.shields.io/badge/AWESOME-Persian%20Podcasts-orange.svg) 
 
+# لیست بهترین پادکست‌های فارسی حوزه تکنولوژی و فناوری‌ اطلاعات 
 
-[![awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+![badge](https://img.shields.io/badge/AWESOME-Persian%20Podcasts-orange.svg)  [![awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/Ashkan-rmk/awesome-persian-podcasts)
 
 ### این مخزن مکانی برای جمع‌اوری بهترین پادکست‌های فارسی توی حوزه‌های برنامه‌نویسی، تکنولوژی، فناوری اطلاعات و موضوعات مرتبط با این‌ها هستش
 
@@ -11,6 +11,8 @@
 ردیف | نام پادکست | توضیحات | لینک
 --- | --- | ---| ---
 1 | رادیو گیک | رادیویی برای حرف زدن درباره نقطه تقابل میان تکنولوژی و زندگی انسان | https://jadi.net/tag/podcast/
+
+***
 
 ## مشارکت
 
