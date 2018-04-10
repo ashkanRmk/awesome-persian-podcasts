@@ -1,8 +1,8 @@
 <div dir="rtl">
 
-# لیست بهترین پادکست‌های فارسی حوزه تکنولوژی و فناوری‌ اطلاعات 
+#  :sound: لیست بهترین پادکست‌های فارسی حوزه تکنولوژی و فناوری‌ اطلاعات 
 
-![badge](https://img.shields.io/badge/AWESOME-Persian%20Podcasts-orange.svg)  [![awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/Ashkan-rmk/awesome-persian-podcasts)
+[![badge](https://img.shields.io/badge/AWESOME-Persian%20Podcasts-orange.svg)](https://github.com/Ashkan-rmk/awesome-persian-podcasts)
 
 ### این مخزن مکانی برای جمع‌اوری بهترین پادکست‌های فارسی توی حوزه‌های برنامه‌نویسی، تکنولوژی، فناوری اطلاعات و موضوعات مرتبط با این‌ها هستش
 
@@ -14,7 +14,7 @@
 
 ***
 
-## مشارکت
+## :octocat: مشارکت
 
 برای کامل‌تر شدن این لیست از شما می‌خوایم تا پادکست‌های خوبی که توی حوزه‌های اشاره شده گوش میدین رو با ما از طریق پول ریکوئست به اشتراک بذارین 
 
