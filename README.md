@@ -2,7 +2,7 @@
 
 #  :sound: لیست بهترین پادکست‌های فارسی حوزه تکنولوژی
 
-[![badge](https://img.shields.io/badge/AWESOME-Persian%20Podcasts-orange.svg)](https://github.com/Ashkan-rmk/awesome-persian-podcasts)
+[![badge](https://img.shields.io/badge/AWESOME-Persian%20Podcasts-orange.svg)](https://ashkan-rmk.github.io/awesome-persian-podcasts/)
 
  این مخزن مکانی برای جمع‌آوری بهترین پادکست‌های فارسی در این حوزه‌ها هستش:
 * برنامه‌نویسی
