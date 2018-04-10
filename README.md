@@ -1,4 +1,6 @@
-<div dir="rtl">
+  <link rel="stylesheet" href="style.css" type="text/css" media="screen" title="stylesheet" />
+
+<div dir="rtl" class="font">
 
 #  :sound: لیست بهترین پادکست‌های فارسی حوزه تکنولوژی
 
