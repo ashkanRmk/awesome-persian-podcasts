@@ -1,4 +1,4 @@
-<div dir="rtl">
+<div dir="rtl" class="font">
 
 #  :sound: لیست بهترین پادکست‌های فارسی حوزه تکنولوژی
 
