@@ -2018,7 +2018,7 @@
 		input[type="button"].special,
 		button.special,
 		.button.special {
-			background-color: #248888;
+			background-color: #025477;
 			color: #ffffff !important;
 			box-shadow: none;
 		}
@@ -3432,7 +3432,7 @@
 			#main input[type="button"].special,
 			#main button.special,
 			#main .button.special {
-				background-color: #8cc9f0;
+				background-color: #025477;
 				color: #ffffff !important;
 				box-shadow: none;
 			}
