@@ -36,7 +36,7 @@
 
 <div dir="ltr">
 
-- [X] ایجاد یک [صفحه استاتیک](https://ashkan-rmk.github.io/awesome-persian-podcasts/) برای دسترسی بهتر
+- [X] ~~ایجاد یک [صفحه استاتیک](https://ashkan-rmk.github.io/awesome-persian-podcasts/) برای دسترسی بهتر~~
 - [ ] دسته‌بندی موضوعی پادکست‌ها
 - [ ] مرتب‌سازی پادکست‌ها بر اساس حروف الفبا
 
