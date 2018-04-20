@@ -57,12 +57,12 @@
 [رادیو پیوست](http://peivast.com/peivast-radio/) | ماهنامه اطلاع‌رسانی، پژوهشی، تحلیلی و فرهنگی
 [رادیو رُمانو](https://t.me/radioromano) | درامی آرام با رادیو رُمانو
 [رادیو رنگین‌کمان](https://t.me/RadioRanginKamanChannel) | رادیو رنگین‌کمان، رادیو اقلیت‌های جنسی
-[رادیو قرمز](https://t.me/radioghermez_official) | توضیح یافت نشد :)
+[رادیو قرمز](https://t.me/radioghermez_official) | رادیویی یک دقیقه‌ای طنز در مورد مسائل مختلف روز
 [آویشن](https://avishanx.com/) | آموزش سلامت و لذت جنسی برای همه
-[فوتبال‌کست](https://soundcloud.com/footballcast) | اولين پادكست فارسی فوتبال اروپا 
-[پارادوکس](https://t.me/kambizhosseini) | توضیح یافت نشد :)
+[فوتبال‌کست](https://soundcloud.com/footballcast) | اولين پادكست فارسی فوتبال اروپا
+[پارادوکس](https://t.me/kambizhosseini) | «پارادوکس» رادیوی طنز سیاسی اجتماعی، هر هفته روزهای جمعه در ساعت ۹ شب به وقت تهران از رادیو فردا به همراه کامبیز حسینی پخش می‌شود.
 [هیستوگرام](https://t.me/histogrampodcast) | اولین و در نتیجه بهترین پادکست عکاسی فارسی
-[پادکست جاده](https://t.me/TripeMaCom) | موسیقی برای سفرهای روزانه شما 
+[پادکست جاده](https://t.me/TripeMaCom) | موسیقی برای سفرهای روزانه شما
 [پادکست جدی](https://soundcloud.com/jeddi-podcasts/sets/jeddi-podcasts) | توضیح یافت نشد :)
 [RedLight](https://t.me/Dezhavu_pro) | توضیح یافت نشد :)
 [پادکست پاپریکا](https://t.me/paprikapodcast) |  مجموعه‌ای از گفت‌وگوهای سینمایی با فیلمسازان و هنرمندان عرصه‌ی فیلمسازی
