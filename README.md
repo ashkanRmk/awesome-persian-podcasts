@@ -59,6 +59,7 @@
 [رادیو رنگین‌کمان](https://t.me/RadioRanginKamanChannel) | رادیو رنگین‌کمان، رادیو اقلیت‌های جنسی
 [رادیو قرمز](https://t.me/radioghermez_official) | توضیح یافت نشد :)
 [آویشن](https://avishanx.com/) | آموزش سلامت و لذت جنسی برای همه
+[فوتبال‌کست](https://soundcloud.com/footballcast) | اولين پادكست فارسی فوتبال اروپا 
 
 ***
 
