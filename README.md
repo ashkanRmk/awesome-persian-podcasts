@@ -65,6 +65,7 @@
 [پادکست جاده](https://t.me/TripeMaCom) | موسیقی برای سفرهای روزانه شما 
 [پادکست جدی](https://soundcloud.com/jeddi-podcasts/sets/jeddi-podcasts) | توضیح یافت نشد :)
 [RedLight](https://t.me/Dezhavu_pro) | توضیح یافت نشد :)
+[پادکست پاپریکا](https://t.me/paprikapodcast) |  مجموعه‌ای از گفت‌وگوهای سینمایی با فیلمسازان و هنرمندان عرصه‌ی فیلمسازی
 
 ***
 
