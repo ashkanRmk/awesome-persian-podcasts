@@ -63,6 +63,8 @@
 [پارادوکس](https://t.me/kambizhosseini) | توضیح یافت نشد :)
 [هیستوگرام](https://t.me/histogrampodcast) | اولین و در نتیجه بهترین پادکست عکاسی فارسی
 [پادکست جاده](https://t.me/TripeMaCom) | موسیقی برای سفرهای روزانه شما 
+[پادکست جدی](https://soundcloud.com/jeddi-podcasts/sets/jeddi-podcasts) | توضیح یافت نشد :)
+[RedLight](https://t.me/Dezhavu_pro) | توضیح یافت نشد :)
 
 ***
 
