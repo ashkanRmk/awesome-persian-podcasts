@@ -62,6 +62,7 @@
 [فوتبال‌کست](https://soundcloud.com/footballcast) | اولين پادكست فارسی فوتبال اروپا 
 [پارادوکس](https://t.me/kambizhosseini) | توضیح یافت نشد :)
 [هیستوگرام](https://t.me/histogrampodcast) | اولین و در نتیجه بهترین پادکست عکاسی فارسی
+[پادکست جاده](https://t.me/TripeMaCom) | موسیقی برای سفرهای روزانه شما 
 
 ***
 
