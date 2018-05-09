@@ -87,6 +87,7 @@
 [شعر و ادبیات پارسی](https://itunes.apple.com/dk/podcast/%D8%B4%D8%B9%D8%B1-%D9%88-%D8%A7%D8%AF%D8%A8%DB%8C%D8%A7%D8%AA-%D9%BE%D8%A7%D8%B1%D8%B3%DB%8C/id961844416?mt=2) | اشعار ماندگار در ادبیات پارسی
 [کتاب‌های صوتی فارسی](https://itunes.apple.com/ae/podcast/vahid-persian-audio-book/id1128203472?mt=2&ign-mpt=uo%3D4) | توضیح یافت نشد :)
 [تاریخ تازه‌ها](https://itunes.apple.com/ae/podcast/%D8%AA%D8%A7%D8%B1%DB%8C%D8%AE-%D8%AA%D8%A7%D8%B2%D9%87-%D9%87%D8%A7/id1242026070?mt=2&ign-mpt=uo%3D4) | «تاریخ تازه‌ها» بر گذشته‌ی رخدادهای روز می‌نگرد
+[Redrum](https://shenoto.com/REDRUM) | پادکستی برای جرم و جنایت
 
 
 
