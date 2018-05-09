@@ -84,6 +84,9 @@
 [گپ با علی سخاوتی](https://itunes.apple.com/ae/podcast/%DA%AF%D9%BE-%D8%A8%D8%A7-%D8%B9%D9%84%DB%8C-%D8%B3%D8%AE%D8%A7%D9%88%D8%AA%DB%8C/id955742575?mt=2&ign-mpt=uo%3D4) | موضوع گفتگوها از شیر مرغ تا جان آدمیزاد می تواند باشد
 [رادیو چهرازی](https://soundcloud.com/radiochehrazi-1) | ایده این است که گویی عده‌ای از بیماران آسایشگاه چهرازی
 [شناخت موسیقی دستگاهی ایران](https://www.blubrry.com/mrlotfi/) | برنامه‌های محمدرضا لطفی در رادیو فرهنگ
+[شعر و ادبیات پارسی](https://itunes.apple.com/dk/podcast/%D8%B4%D8%B9%D8%B1-%D9%88-%D8%A7%D8%AF%D8%A8%DB%8C%D8%A7%D8%AA-%D9%BE%D8%A7%D8%B1%D8%B3%DB%8C/id961844416?mt=2) | اشعار ماندگار در ادبیات پارسی
+
+
 
 ***
 
