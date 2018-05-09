@@ -82,6 +82,8 @@
 [رادیو کالج پارک](http://www.radiocp.com/) | كالج پارک شهری دانشجویی در ايالت مريلند در شرق آمريكاست
 [رادیو دست‌نوشته‌ها](https://soundcloud.com/radiodastneveshteha) |  توضیح یافت نشد :)
 [گپ با علی سخاوتی](https://itunes.apple.com/ae/podcast/%DA%AF%D9%BE-%D8%A8%D8%A7-%D8%B9%D9%84%DB%8C-%D8%B3%D8%AE%D8%A7%D9%88%D8%AA%DB%8C/id955742575?mt=2&ign-mpt=uo%3D4) | موضوع گفتگوها از شیر مرغ تا جان آدمیزاد می تواند باشد
+[رادیو چهرازی](https://soundcloud.com/radiochehrazi-1) | ایده این است که گویی عده‌ای از بیماران آسایشگاه چهرازی
+
 
 ***
 
