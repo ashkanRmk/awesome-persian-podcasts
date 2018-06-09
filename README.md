@@ -1,5 +1,4 @@
 ﻿<div dir="rtl">
-[![All Contributors](https://img.shields.io/badge/all_contributors-0-orange.svg?style=flat-square)](#contributors)
 
 # :sound: لیست بهترین پادکست‌های فارسی
 
@@ -27,7 +26,7 @@
 
 > ### :clipboard: [قدم‌های بعدی](#clipboard-قدم‌های-بعدی)
 >
-> ### :octocat: [مشارکت](#octocat-مشارکت)
+> ### :busts_in_silhouette: [مشارکت](#octocat-مشارکت)
 
 </div>
 ***
@@ -274,14 +273,15 @@
 
 ## :heart: باتشکر از کسانی که بهمون کمک کردند:
 
+<div dir="ltr">
+
+> * Samane Yaghoobi ([@SamaneYaghoobi](https://github.com/SamaneYaghoobi))
+> * Farshad Asadpour ([@farshadasadpour](https://github.com/farshadasadpour))
+> * Mahdi Kalhor ([@mkal1375](https://github.com/mkal1375))
+> * Elahe Sharifi ([@elahesharifi](https://github.com/elahesharifi))
+> * Benyamin Salimi ([@benyaminsalimi](https://github.com/benyaminsalimi))
+> * Mohammad Hadi ([@mhadikz](https://github.com/mhadikz))
+
 </div>
 
-## Contributors
-
-Thanks goes to these wonderful people ([emoji key](https://github.com/kentcdodds/all-contributors#emoji-key)):
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore -->
-<!-- ALL-CONTRIBUTORS-LIST:END -->
-
-This project follows the [all-contributors](https://github.com/kentcdodds/all-contributors) specification. Contributions of any kind welcome!
+</div>
