@@ -1,0 +1,37 @@
+{
+  "projectName": "awesome-persian-podcasts",
+  "projectOwner": "Ashkan-rmk",
+  "repoType": "github",
+  "repoHost": "https://github.com/Ashkan-rmk/awesome-persian-podcasts",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": true,
+  "contributors": [
+        {
+      "login": "Ashkan-rmk",
+      "name": "Ashkan Rahmani",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/19786593?s=460&v=4",
+      "profile": "http://ashkanam.ir",
+      "contributions": [
+        "code",
+        "question",
+        "doc",
+        "review"
+      ]
+    },
+    {
+      "login": "SamaneYaghoobi",
+      "name": "Samane Yaghoobi",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/22401814?s=460&v=4",
+      "profile": "https://github.com/SamaneYaghoobi",
+      "contributions": [
+        "code",
+        "question",
+        "doc",
+        "review"
+      ]
+    },
+  ]
+}

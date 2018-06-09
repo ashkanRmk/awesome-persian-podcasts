@@ -1,4 +1,5 @@
 ﻿<div dir="rtl">
+[![All Contributors](https://img.shields.io/badge/all_contributors-0-orange.svg?style=flat-square)](#contributors)
 
 # :sound: لیست بهترین پادکست‌های فارسی
 
@@ -22,11 +23,13 @@
 * [موضوعات دیگر](#heavy_check_mark-موضوعات-دیگر)
 
 
+<div dir="ltr">
 
-> [قدم‌های بعدی](#clipboard-قدم‌های-بعدی)
+> ### :clipboard: [قدم‌های بعدی](#clipboard-قدم‌های-بعدی)
 >
-> [مشارکت](#octocat-مشارکت)
+> ### :octocat: [مشارکت](#octocat-مشارکت)
 
+</div>
 ***
 
 ## :exclamation: تذکر:
@@ -266,4 +269,19 @@
 
 برای کامل‌تر شدن این لیست از شما می‌خوایم تا پادکست‌های خوبی که توی حوزه‌های اشاره شده گوش میدین رو با ما از طریق پول ریکوئست به اشتراک بذارین  ![Chile Parrot](http://countryparrots.com/parrots/chile-parrot.gif)
 
+لطفا دقت داشته باشین که لیست‌ها بر اساس حروف الفبا مرتب شده‌اند
+
+
+## :heart: باتشکر از کسانی که بهمون کمک کردند:
+
 </div>
+
+## Contributors
+
+Thanks goes to these wonderful people ([emoji key](https://github.com/kentcdodds/all-contributors#emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore -->
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/kentcdodds/all-contributors) specification. Contributions of any kind welcome!
