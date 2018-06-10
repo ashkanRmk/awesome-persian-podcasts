@@ -284,6 +284,7 @@
 > * Mahdi Kalhor ([@mkal1375](https://github.com/mkal1375))
 > * Elahe Sharifi ([@elahesharifi](https://github.com/elahesharifi))
 > * Benyamin Salimi ([@benyaminsalimi](https://github.com/benyaminsalimi))
+> * Sajed RasouliFar ([@Sajed](https://github.com/Sajed))
 > * Mohammad Hadi ([@mhadikz](https://github.com/mhadikz))
 
 </div>
