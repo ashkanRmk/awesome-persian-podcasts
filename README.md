@@ -126,6 +126,7 @@
 [دایجست](https://t.me/digesttt) | پادکستی برای توضیح مسائل نسبتاً پیچیده دنیای اطراف ما
 [رادیو پیوست](http://peivast.com/peivast-radio/) | ماهنامه اطلاع‌رسانی، پژوهشی، تحلیلی و فرهنگی
 [رادیو راز](http://www.projectraz.com/news/topic/%D8%B1%D8%A7%D8%AF%DB%8C%D9%88-%D8%A7%DB%8C%D9%86%D8%AA%D8%B1%D9%86%D8%AA%DB%8C-%D8%B1%D8%A7%D8%B2) | رادیو راز به موضوع علم، فناوری، آینده و تخیل می‌پردازد
+[گمانه](https://gomaneh.net/?cat=2613) | ستاد مبارزه با چرندیات
 
 
 
@@ -251,7 +252,6 @@
 [کافگرام](https://t.me/cafegramshz) | توضیح یافت نشد :)
 [کافه بزرگسالی](https://t.me/adultclub) | برای اشتراک تجربه‌های رشدمان، با هم همراه شويم
 [کتاب‌های صوتی فارسی](https://itunes.apple.com/ae/podcast/vahid-persian-audio-book/id1128203472?mt=2&ign-mpt=uo%3D4) | توضیح یافت نشد :)
-[گمانه](https://gomaneh.net/?cat=2613) | ستاد مبارزه با چرندیات
 [مربی](http://shenoto.com/thecoach) | توضیح یافت نشد :)
 [مفت‌بر](https://soundcloud.com/moftbar-com) |  آموزش پوکر پیشرفته
 
