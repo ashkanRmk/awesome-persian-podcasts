@@ -256,6 +256,7 @@
 [کتاب‌های صوتی فارسی](https://itunes.apple.com/ae/podcast/vahid-persian-audio-book/id1128203472?mt=2&ign-mpt=uo%3D4) | توضیح یافت نشد :)
 [مربی](http://shenoto.com/thecoach) | توضیح یافت نشد :)
 [مفت‌بر](https://soundcloud.com/moftbar-com) |  آموزش پوکر پیشرفته
+[وقت خواب](http://www.sleeptimepodcast.ir) | پادکستی آرامش بخش، برای رفع بی‌خوابی
 
 [:back: بازگشت به فهرست](#mag_right-فهرست-موضوعات)
 
