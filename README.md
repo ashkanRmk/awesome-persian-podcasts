@@ -48,6 +48,9 @@
 [شعر و ادبیات پارسی](https://itunes.apple.com/dk/podcast/%D8%B4%D8%B9%D8%B1-%D9%88-%D8%A7%D8%AF%D8%A8%DB%8C%D8%A7%D8%AA-%D9%BE%D8%A7%D8%B1%D8%B3%DB%8C/id961844416?mt=2) | اشعار ماندگار در ادبیات پارسی
 [فردوسی‌خوانی](https://t.me/readingferdowsi) | پادکست برای دوستداران مبتدی شاهنامه
 [فلسفیدن](http://falsafidan.com/) | فلسفه و فرهنگ عامه
+[لوگوس](https://t.me/logos_podcast) | فلسفه به روایت حامد قدیری
+[پاراگراف](http://paragraph.podbean.com/feed.xml) |تاریخ مثل قصه‌ست، قصه‌ها کمک می‌کنند ما عمیق‌تر زندگی کنیم
+
 
 
 [:back: بازگشت به فهرست](#mag_right-فهرست-موضوعات)
