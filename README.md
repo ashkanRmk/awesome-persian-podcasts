@@ -253,6 +253,7 @@
  --- | ---
 [RedLight](https://t.me/Dezhavu_pro) | توضیح یافت نشد :)
 [Redrum](https://shenoto.com/REDRUM) | پادکستی برای جرم و جنایت
+[رادیو۱۰۰ ](https://t.me/radioo100) | یک مدیای صوتی با موضوع کنکوره
 [تراولکست](https://beeptunes.com/album/472369821/%D8%B1%D8%A7%D8%AF%DB%8C%D9%88-%D8%AA%D8%B1%D8%A7%D9%88%D9%84%DA%A9%D8%B3%D8%AA) |  کاری از گروه فناوری و گردشگری سیروکو است که قصد دارد در کنار بخش سرگرمی پادکست، به معرفی مکان‌های دیدنی کشورمان ایران بپردازد
 [جدی](https://soundcloud.com/jeddi-podcasts/sets/jeddi-podcasts) | توضیح یافت نشد :)
 [چوچای](https://t.me/chochay) | توضیح یافت نشد :)
