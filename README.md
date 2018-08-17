@@ -253,11 +253,12 @@
  --- | ---
 [RedLight](https://t.me/Dezhavu_pro) | توضیح یافت نشد :)
 [Redrum](https://shenoto.com/REDRUM) | پادکستی برای جرم و جنایت
-[رادیو۱۰۰ ](https://t.me/radioo100) | یک مدیای صوتی با موضوع کنکوره
 [تراولکست](https://beeptunes.com/album/472369821/%D8%B1%D8%A7%D8%AF%DB%8C%D9%88-%D8%AA%D8%B1%D8%A7%D9%88%D9%84%DA%A9%D8%B3%D8%AA) |  کاری از گروه فناوری و گردشگری سیروکو است که قصد دارد در کنار بخش سرگرمی پادکست، به معرفی مکان‌های دیدنی کشورمان ایران بپردازد
 [جدی](https://soundcloud.com/jeddi-podcasts/sets/jeddi-podcasts) | توضیح یافت نشد :)
 [چوچای](https://t.me/chochay) | توضیح یافت نشد :)
 [خرس‌های گریزلی مقیم اینجا](https://soundcloud.com/residentgrizzly) | ذهن‌نوشته‌ها و گفتگوهای خرس‌های گریزلی مقیم اینجا
+[رادیو۱۰۰ ](https://t.me/radioo100) | یک مدیای صوتی با موضوع کنکوره
+[رادیو پالیسی ](https://soundcloud.com/radiopolicy/radio-policy-0) | کاری از عطا حشمتی و سعید سلیمانی
 [رادیو پنجره](https://t.me/RadioPanjere) | حرف زدن میتونه پنجره کوچیکی باشه برای بیرون پریدن از تنهایی
 [رادیو جامعه نو](http://www.jameeno.com/category/podcast/) | رسانه روزنامه‌نگاران مستقل ایران
 [رادیو جولون](http://namlik.me/channel/%D8%B1%D8%A7%D8%AF%DB%8C%D9%88%20%D8%AC%D9%88%D9%84%D9%88%D9%86) |"جولون" رادیویی است برای گفتن و شنیدن از سفر 🎒
