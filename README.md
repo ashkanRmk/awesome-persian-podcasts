@@ -269,7 +269,6 @@
 [ دلخون](https://t.me/radio_delkhon) | توضیح یافت نشد :)
 [دموکراسی درکار](https://datwfa.blubrry.net/?author=1) | توضیح یافت نشد :)
 [روزآروز](https://soundcloud.com/roozarooz_media) |روزآروز یک رسانه خبری‌-تحلیلیِ خصوصی است
-
 [روژان](https://t.me/rojanradio) | در حاشیه الوند، کردها دختران چشم رنگی خود را روژان نام گذاری می کنند
 [ روغن حبه‌ی انگور](https://soundcloud.com/tehranpodcast/sets/radioangoor) | کاری مشترک از مادر و پسری‌ست که در هر قسمت، قسمتی از کتاب، قسمتی از فیلم و صدایی از محیط را میشنویم 
 [ فنگ](https://soundcloud.com/radiofang) | توضیح یافت نشد :)
