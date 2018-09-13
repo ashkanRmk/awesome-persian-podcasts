@@ -1,8 +1,10 @@
-﻿<div dir="rtl">
+[![Backers on Open Collective](https://opencollective.com/awesome-persian-podcasts/backers/badge.svg)](#backers) [![Sponsors on Open Collective](https://opencollective.com/awesome-persian-podcasts/sponsors/badge.svg)](#sponsors) [![badge](https://img.shields.io/badge/AWESOME-Persian%20Podcasts-orange.svg)](https://ashkan-rmk.github.io/awesome-persian-podcasts/)
+
+<div dir="rtl">
 
 # :sound: لیست بهترین پادکست‌های فارسی
 
-[![badge](https://img.shields.io/badge/AWESOME-Persian%20Podcasts-orange.svg)](https://ashkan-rmk.github.io/awesome-persian-podcasts/)
+
 
  این مخزن مکانی برای جمع‌آوری بهترین پادکست‌های فارسی در حوزه‌های مختلف می‌باشد.
 
@@ -328,3 +330,33 @@
 </div>
 
 </div>
+
+## Contributors
+
+This project exists thanks to all the people who contribute. [[Contribute](CONTRIBUTING.md)].
+<a href="graphs/contributors"><img src="https://opencollective.com/awesome-persian-podcasts/contributors.svg?width=890&button=false" /></a>
+
+
+## Backers
+
+Thank you to all our backers! 🙏 [[Become a backer](https://opencollective.com/awesome-persian-podcasts#backer)]
+
+<a href="https://opencollective.com/awesome-persian-podcasts#backers" target="_blank"><img src="https://opencollective.com/awesome-persian-podcasts/backers.svg?width=890"></a>
+
+
+## Sponsors
+
+Support this project by becoming a sponsor. Your logo will show up here with a link to your website. [[Become a sponsor](https://opencollective.com/awesome-persian-podcasts#sponsor)]
+
+<a href="https://opencollective.com/awesome-persian-podcasts/sponsor/0/website" target="_blank"><img src="https://opencollective.com/awesome-persian-podcasts/sponsor/0/avatar.svg"></a>
+<a href="https://opencollective.com/awesome-persian-podcasts/sponsor/1/website" target="_blank"><img src="https://opencollective.com/awesome-persian-podcasts/sponsor/1/avatar.svg"></a>
+<a href="https://opencollective.com/awesome-persian-podcasts/sponsor/2/website" target="_blank"><img src="https://opencollective.com/awesome-persian-podcasts/sponsor/2/avatar.svg"></a>
+<a href="https://opencollective.com/awesome-persian-podcasts/sponsor/3/website" target="_blank"><img src="https://opencollective.com/awesome-persian-podcasts/sponsor/3/avatar.svg"></a>
+<a href="https://opencollective.com/awesome-persian-podcasts/sponsor/4/website" target="_blank"><img src="https://opencollective.com/awesome-persian-podcasts/sponsor/4/avatar.svg"></a>
+<a href="https://opencollective.com/awesome-persian-podcasts/sponsor/5/website" target="_blank"><img src="https://opencollective.com/awesome-persian-podcasts/sponsor/5/avatar.svg"></a>
+<a href="https://opencollective.com/awesome-persian-podcasts/sponsor/6/website" target="_blank"><img src="https://opencollective.com/awesome-persian-podcasts/sponsor/6/avatar.svg"></a>
+<a href="https://opencollective.com/awesome-persian-podcasts/sponsor/7/website" target="_blank"><img src="https://opencollective.com/awesome-persian-podcasts/sponsor/7/avatar.svg"></a>
+<a href="https://opencollective.com/awesome-persian-podcasts/sponsor/8/website" target="_blank"><img src="https://opencollective.com/awesome-persian-podcasts/sponsor/8/avatar.svg"></a>
+<a href="https://opencollective.com/awesome-persian-podcasts/sponsor/9/website" target="_blank"><img src="https://opencollective.com/awesome-persian-podcasts/sponsor/9/avatar.svg"></a>
+
+
