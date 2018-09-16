@@ -311,7 +311,7 @@
 
 
 ## :heart: باتشکر از کسانی که بهمون کمک کردند:
-
+<div dir="ltr">
 <a href="graphs/contributors"><img src="https://opencollective.com/awesome-persian-podcasts/contributors.svg?width=890&button=false" /></a>
 
 
@@ -337,4 +337,4 @@ Support this project by becoming a sponsor. Your logo will show up here with a l
 <a href="https://opencollective.com/awesome-persian-podcasts/sponsor/8/website" target="_blank"><img src="https://opencollective.com/awesome-persian-podcasts/sponsor/8/avatar.svg"></a>
 <a href="https://opencollective.com/awesome-persian-podcasts/sponsor/9/website" target="_blank"><img src="https://opencollective.com/awesome-persian-podcasts/sponsor/9/avatar.svg"></a>
 
-
+</div>
