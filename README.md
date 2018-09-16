@@ -312,28 +312,6 @@
 
 ## :heart: باتشکر از کسانی که بهمون کمک کردند:
 
-<div dir="ltr">
-
-> * Samane Yaghoobi ([@SamaneYaghoobi](https://github.com/SamaneYaghoobi))
-> * Farshad Asadpour ([@farshadasadpour](https://github.com/farshadasadpour))
-> * Masoud Sadrnezhaad ([@smmsadrnezh](https://github.com/smmsadrnezh))
-> * Elahe Sharifi ([@elahesharifi](https://github.com/elahesharifi))
-> * Ebrahim Byagowi ([@ebraminio](https://github.com/ebraminio))
-> * Masoud Mirzaei ([@mamsoudi](https://github.com/mamsoudi))
-> * Sajed RasouliFar ([@Sajed](https://github.com/Sajed))
-> * Mohammad Hadi ([@mhadikz](https://github.com/mhadikz))
-> * Mahdi Kalhor ([@mkal1375](https://github.com/mkal1375))
-> * Benyamin Salimi ([@benyaminsalimi](https://github.com/benyaminsalimi))
-
-
-
-</div>
-
-</div>
-
-## Contributors
-
-This project exists thanks to all the people who contribute. [[Contribute](CONTRIBUTING.md)].
 <a href="graphs/contributors"><img src="https://opencollective.com/awesome-persian-podcasts/contributors.svg?width=890&button=false" /></a>
 
 
