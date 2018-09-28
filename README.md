@@ -266,7 +266,7 @@
 [ جولون](http://namlik.me/channel/%D8%B1%D8%A7%D8%AF%DB%8C%D9%88%20%D8%AC%D9%88%D9%84%D9%88%D9%86) |"جولون" رادیویی است برای گفتن و شنیدن از سفر 🎒
 [ دُچْاراٰنِه](https://t.me/docharane) |این رادیو دچارانه‌ست!
 [ دلخون](https://t.me/radio_delkhon) | توضیح یافت نشد :)
-[دموکراسی درکار](https://datwfa.blubrry.net/?author=1) | توضیح یافت نشد :)
+[دموکراسی درکار](https://datwfa.blubrry.net/?author=1) | درمانی بر سرمایه‌داری
 [روزآروز](https://soundcloud.com/roozarooz_media) |روزآروز یک رسانه خبری‌-تحلیلیِ خصوصی است
 [روژان](https://t.me/rojanradio) | در حاشیه الوند، کردها دختران چشم رنگی خود را روژان نام گذاری می کنند
 [ روغن حبه‌ی انگور](https://soundcloud.com/tehranpodcast/sets/radioangoor) | کاری مشترک از مادر و پسری‌ست که در هر قسمت، قسمتی از کتاب، قسمتی از فیلم و صدایی از محیط را میشنویم 
