@@ -1,4 +1,4 @@
-[![Backers on Open Collective](https://opencollective.com/awesome-persian-podcasts/backers/badge.svg)](#backers) [![Sponsors on Open Collective](https://opencollective.com/awesome-persian-podcasts/sponsors/badge.svg)](#sponsors) [![badge](https://img.shields.io/badge/AWESOME-Persian%20Podcasts-orange.svg)](https://ashkan-rmk.github.io/awesome-persian-podcasts/)
+[![Backers on Open Collective](https://opencollective.com/awesome-persian-podcasts/backers/badge.svg)](#backers) [![Sponsors on Open Collective](https://img.shields.io/badge/AWESOME-Persian%20Podcasts-orange.svg)](https://ashkan-rmk.github.io/awesome-persian-podcasts/)
 
 <div dir="rtl">
 
@@ -99,6 +99,7 @@
 [کانال بی](https://t.me/channelbpodcast) | روایت شنیدنیِ ماجراهای واقعی
 [بی پلاس](https://bpluspodcast.com/) | بی‌پلاس یک پادکست فارسی است که در هر اپیزودش ما خلاصهٔ یک کتاب غیرداستانی را به فارسی تعریف می‌کنیم
 [رادیو دیو](https://t.me/radiodeev) |رادیو دیو میانبری به حال و هوای سرزمین، مردم یا حتی یک فصل. تم خاص هر اپیزود تشویقمان می‌کند به دنیایی نو سرک بکشیم
+[رادیو شهرزاد](https://soundcloud.com/radioshahrzad) | شهرزاد در جایی فرضی که در آن کانادا و استرالیا به هم می رسند به دنیا آمده، اما فارسی حرف می زند. قرار است برای شنونده هاش داستان بگوید، شعر بخواند و همراهتان به موسیقی گوش بدهد؛ قرار است برخی فاصله های خالی را در فضای هنری فارسی پر کند.
 [راندوو](https://shenoto.com/album/24102) | در هر راندوو، شما به یک قسمت از یک رمان فرانسوی گوش خواهید داد و سپس ترجمه و توضیح شفاهی آن را خواهید شنید
 [داستان شب](https://t.me/dastaneshab) | ما هر شب راس ساعت ۲۳، برای شما یک داستان کوتاه می‌خوانیم
 [رادیو رُمانو](https://t.me/radioromano) | درامی آرام با رادیو رُمانو
@@ -280,7 +281,6 @@
 [ عجایب](https://pca.st/SgBn) | صدای از اعماق تاریکی برای نشان دادن چیزهای عجیب دنیا هستی از اهرام ثلاثه تا زندگی سوسک ها بعد از انفجار اتمی
 [ کالج پارک](http://www.radiocp.com/) | كالج پارک شهری دانشجویی در ايالت مريلند در شرق آمريكاست
 [ساده است](https://soundcloud.com/saman-attarian/sets/oqaciezlfm6s) | زندگی ساده است و سادگی اعجاز آن است
-[رادیو شهرزاد](https://soundcloud.com/radioshahrzad) | شهرزاد در جایی فرضی که در آن کانادا و استرالیا به هم می رسند به دنیا آمده، اما فارسی حرف می زند. قرار است برای شنونده هاش داستان بگوید، شعر بخواند و همراهتان به موسیقی گوش بدهد؛ قرار است برخی فاصله های خالی را در فضای هنری فارسی پر کند.
 [صدای زمین](https://beeptunes.com/album/430911224) | صدای ما را از کهکشان راه شیری می‌شنوید،اینجا کره زمین است، جایی که قلبمان  میزند
 [کافگرام](https://t.me/cafegramshz) | توضیح یافت نشد :)
 [کافه بزرگسالی](https://t.me/adultclub) | برای اشتراک تجربه‌های رشدمان، با هم همراه شويم
@@ -325,10 +325,6 @@ Thank you to all our backers! 🙏 [[Become a backer](https://opencollective.com
 
 <a href="https://opencollective.com/awesome-persian-podcasts#backers" target="_blank"><img src="https://opencollective.com/awesome-persian-podcasts/backers.svg?width=890"></a>
 
-
-## Sponsors
-
-Support this project by becoming a sponsor. Your logo will show up here with a link to your website. [[Become a sponsor](https://opencollective.com/awesome-persian-podcasts#sponsor)]
 
 <a href="https://opencollective.com/awesome-persian-podcasts/sponsor/0/website" target="_blank"><img src="https://opencollective.com/awesome-persian-podcasts/sponsor/0/avatar.svg"></a>
 <a href="https://opencollective.com/awesome-persian-podcasts/sponsor/1/website" target="_blank"><img src="https://opencollective.com/awesome-persian-podcasts/sponsor/1/avatar.svg"></a>
