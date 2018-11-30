@@ -107,6 +107,9 @@
 [رادیو چهرازی](https://soundcloud.com/radiochehrazi-1) | ایده این است که گویی عده‌ای از بیماران آسایشگاه چهرازی
 [رادیو منزوی](https://twitter.com/radiomonzavi)|رادیو منزوی، منزوی‌ترین گوشهٔ فکری ماست، جایی برای یک لحظه فارغ از همه چیز شدن
 [راننده تاکسی](https://soundcloud.com/sajedrasoulifar/sets/skigmvj3ult9) | نقل ماجراهایی که در یک تاکسی رخ می‌دهد. راننده تاکسی راوی آن است
+[Epitome Books Podcast](http://epitomebooks.ir) | جایی است برایِ شنیدنِ خلاصه‌ی کتاب‌ها 
+
+
 
 [:back: بازگشت به فهرست](#mag_right-فهرست-موضوعات)
 
