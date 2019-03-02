@@ -67,9 +67,6 @@
 
  نام پادکست | توضیحات | فید
  --- | --- | ---
-[Lara Pakhsh](https://shenoto.com/larapakhsh) | 
-لاراپخش ، پادکست های صوتی در رابطه با برنامه نویسی
- | [فید](https://shenoto.com/larapakhsh)
 [IT voice](http://it-voice.ir/) | مرجع تخصصی ضبط پادکست‌های مرتبط با دنیای تکنولوژی | [فید](http://it-voice.ir/feed/)
 [ایده کست](https://shenoto.com/ideacast) | گفتگوی زنده و تصویری با کارآفرینان و متخصصین حوزه دیجیتال به صورت هفتگی
 [آکادمی‌پلت](https://t.me/PaletAcademy) | پادکست‌های هفتگی و آموزشی دیجیتال مارکتینگ
@@ -87,7 +84,8 @@
 [رشدینو](https://shenoto.com/roshdino) | رادیویی که در آن از هک رشد خواهید شنید
 [فین‌تاک](https://shenoto.com/fintalk) | نشست ماهانه استارت‌آپ‌های فین‌تک
 [قبیله گیک‌ها](https://geekstribemedia.com/category/podcast/) | میکس موزیک مخصوص گیک‌ها| [فید](https://geekstribemedia.com/category/podcast/feed/)
-[مسیر](https://shenoto.com/shahramsharif) | رادیویی که در آن به تکنولوژی و مسیر فناوری های نوین میپردازیم: مسیر به کار بردن فناوری و یا مسیر خلق فناوری و یا مسیری که با استفاده از فناوری ارزشی خلق میشود ..
+[لاراپخش](https://shenoto.com/larapakhsh) | لاراپخش، پادکست های صوتی در رابطه با برنامه نویسی | [فید](https://shenoto.com/larapakhsh)
+[مسیر](https://shenoto.com/shahramsharif) | رادیویی که در آن به تکنولوژی و مسیر فناوری های نوین میپردازیم: مسیر به کار بردن فناوری و یا مسیر خلق فناوری و یا مسیری که با استفاده از فناوری ارزشی خلق میشود
 [همفکر](http://hamfekr.net/podcast/) | پادکستی درباره استارتاپ‌ها و دغدغه‌های کارآفرینی
 [رادیوتک](http://radiotech.fm/) | رادیویی برای فردا| [فید](http://radiotech.fm/feed/)
 
