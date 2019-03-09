@@ -68,6 +68,7 @@
  نام پادکست | توضیحات | فید
  --- | --- | ---
 [IT voice](http://it-voice.ir/) | مرجع تخصصی ضبط پادکست‌های مرتبط با دنیای تکنولوژی | [فید](http://it-voice.ir/feed/)
+[استارت‌باکس](http://startboxpodcast.com) | درس‌های استارتاپ | [فید](https://anchor.fm/s/8d5e6e0/podcast/rss)
 [ایده کست](https://shenoto.com/ideacast) | گفتگوی زنده و تصویری با کارآفرینان و متخصصین حوزه دیجیتال به صورت هفتگی
 [آکادمی‌پلت](https://t.me/PaletAcademy) | پادکست‌های هفتگی و آموزشی دیجیتال مارکتینگ
 [پاراتک](https://theparatech.com/) | پادکستی از امیر صادق‌پور و نیما دادگستر درباره رویدادها و روندهای تکنولوژی| [فید](https://theparatech.com/feed/)
