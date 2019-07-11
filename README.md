@@ -1,4 +1,4 @@
-[![Backers on Open Collective](https://opencollective.com/awesome-persian-podcasts/backers/badge.svg)](#backers) [![Sponsors on Open Collective](https://img.shields.io/badge/AWESOME-Persian%20Podcasts-orange.svg)](https://ashkan-rmk.github.io/awesome-persian-podcasts/)
+[![Backers on Open Collective](https://opencollective.com/awesome-persian-podcasts/backers/badge.svg)](#backers) [![Sponsors on Open Collective](https://img.shields.io/badge/AWESOME-Persian%20Podcasts-orange.svg)](https://ashkanRmk.github.io/awesome-persian-podcasts/)
 
 <div dir="rtl">
 
