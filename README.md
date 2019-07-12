@@ -58,6 +58,7 @@
 [لوگوس](https://t.me/logos_podcast) | فلسفه به روایت حامد قدیری
 [مولانا خوانی](https://t.me/molanakhani) | «مثنوی را چابک و دلخواه کن
 ماجرا را موجز و کوتاه کن»
+[Epitome Books](https://epitomebooks.ir/) | جایی برای شنیدنِ خلاصه کتاب‌ها
 
 
 [:back: بازگشت به فهرست](#mag_right-فهرست-موضوعات)
