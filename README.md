@@ -317,7 +317,6 @@
 [نی‌نی‌کده](http://anchor.fm/ninikadeh) | پادکستی برای مادران
 [وقت خواب](http://www.sleeptimepodcast.ir) | پادکستی آرامش بخش، برای رفع بی‌خوابی
 [هیچ‌کیدز](http://manjanigh.com/?cat=5) | توضیح یافت نشد :)
-[بازی باز](http://namlik.me/channel/%D8%A8%D8%A7%D8%B2%DB%8C%20%D8%A8%D8%A7%D8%B2%20%7C%20BaziBaz) |  پادکستی درباره داستان بازی های ویدیویی ( همون گیم خودمون )
 
 
 [:back: بازگشت به فهرست](#mag_right-فهرست-موضوعات)
