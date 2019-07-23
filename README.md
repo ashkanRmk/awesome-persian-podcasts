@@ -334,7 +334,7 @@
 
 ## :octocat: مشارکت
 
-برای کامل‌تر شدن این لیست از شما می‌خوایم تا پادکست‌های خوبی که توی حوزه‌های اشاره شده گوش میدین رو با ما از طریق پول ریکوئست به اشتراک بذارین  ![Chile Parrot](http://countryparrots.com/parrots/chile-parrot.gif)
+برای کامل‌تر شدن این لیست از شما می‌خوایم تا پادکست‌های خوبی که توی حوزه‌های اشاره شده گوش میدین رو با ما از طریق پول ریکوئست به اشتراک بذارین
 
 لطفا دقت داشته باشین که لیست‌ها بر اساس حروف الفبا مرتب شده‌اند
 
@@ -342,16 +342,4 @@
 ## :heart: باتشکر از کسانی که بهمون کمک کردند:
 <div dir="ltr">
 <a href="graphs/contributors"><img src="https://opencollective.com/awesome-persian-podcasts/contributors.svg?width=890&button=false" /></a>
-
-<a href="https://opencollective.com/awesome-persian-podcasts/sponsor/0/website" target="_blank"><img src="https://opencollective.com/awesome-persian-podcasts/sponsor/0/avatar.svg"></a>
-<a href="https://opencollective.com/awesome-persian-podcasts/sponsor/1/website" target="_blank"><img src="https://opencollective.com/awesome-persian-podcasts/sponsor/1/avatar.svg"></a>
-<a href="https://opencollective.com/awesome-persian-podcasts/sponsor/2/website" target="_blank"><img src="https://opencollective.com/awesome-persian-podcasts/sponsor/2/avatar.svg"></a>
-<a href="https://opencollective.com/awesome-persian-podcasts/sponsor/3/website" target="_blank"><img src="https://opencollective.com/awesome-persian-podcasts/sponsor/3/avatar.svg"></a>
-<a href="https://opencollective.com/awesome-persian-podcasts/sponsor/4/website" target="_blank"><img src="https://opencollective.com/awesome-persian-podcasts/sponsor/4/avatar.svg"></a>
-<a href="https://opencollective.com/awesome-persian-podcasts/sponsor/5/website" target="_blank"><img src="https://opencollective.com/awesome-persian-podcasts/sponsor/5/avatar.svg"></a>
-<a href="https://opencollective.com/awesome-persian-podcasts/sponsor/6/website" target="_blank"><img src="https://opencollective.com/awesome-persian-podcasts/sponsor/6/avatar.svg"></a>
-<a href="https://opencollective.com/awesome-persian-podcasts/sponsor/7/website" target="_blank"><img src="https://opencollective.com/awesome-persian-podcasts/sponsor/7/avatar.svg"></a>
-<a href="https://opencollective.com/awesome-persian-podcasts/sponsor/8/website" target="_blank"><img src="https://opencollective.com/awesome-persian-podcasts/sponsor/8/avatar.svg"></a>
-<a href="https://opencollective.com/awesome-persian-podcasts/sponsor/9/website" target="_blank"><img src="https://opencollective.com/awesome-persian-podcasts/sponsor/9/avatar.svg"></a>
-
 </div>
