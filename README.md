@@ -343,14 +343,6 @@
 <div dir="ltr">
 <a href="graphs/contributors"><img src="https://opencollective.com/awesome-persian-podcasts/contributors.svg?width=890&button=false" /></a>
 
-
-## Backers
-
-Thank you to all our backers! 🙏 [[Become a backer](https://opencollective.com/awesome-persian-podcasts#backer)]
-
-<a href="https://opencollective.com/awesome-persian-podcasts#backers" target="_blank"><img src="https://opencollective.com/awesome-persian-podcasts/backers.svg?width=890"></a>
-
-
 <a href="https://opencollective.com/awesome-persian-podcasts/sponsor/0/website" target="_blank"><img src="https://opencollective.com/awesome-persian-podcasts/sponsor/0/avatar.svg"></a>
 <a href="https://opencollective.com/awesome-persian-podcasts/sponsor/1/website" target="_blank"><img src="https://opencollective.com/awesome-persian-podcasts/sponsor/1/avatar.svg"></a>
 <a href="https://opencollective.com/awesome-persian-podcasts/sponsor/2/website" target="_blank"><img src="https://opencollective.com/awesome-persian-podcasts/sponsor/2/avatar.svg"></a>
