@@ -1,4 +1,4 @@
-[![Backers on Open Collective](https://opencollective.com/awesome-persian-podcasts/backers/badge.svg)](#backers) [![Sponsors on Open Collective](https://img.shields.io/badge/AWESOME-Persian%20Podcasts-orange.svg)](https://ashkanRmk.github.io/awesome-persian-podcasts/)
+﻿[![Backers on Open Collective](https://opencollective.com/awesome-persian-podcasts/backers/badge.svg)](#backers) [![Sponsors on Open Collective](https://img.shields.io/badge/AWESOME-Persian%20Podcasts-orange.svg)](https://ashkanRmk.github.io/awesome-persian-podcasts/)
 
 <div dir="rtl">
 
@@ -169,6 +169,7 @@
 [رادیو راز](http://www.projectraz.com/news/topic/%D8%B1%D8%A7%D8%AF%DB%8C%D9%88-%D8%A7%DB%8C%D9%86%D8%AA%D8%B1%D9%86%D8%AA%DB%8C-%D8%B1%D8%A7%D8%B2) | رادیو راز به موضوع علم، فناوری، آینده و تخیل می‌پردازد
 [استرینگ بوکس](https://itunes.apple.com/us/podcast/stringbooks/id1402780361?mt=2) | معرفی و خلاصه کتاب‌های علمی و غیرروایی
 [گمانه](https://gomaneh.net/?cat=2613) | ستاد مبارزه با چرندیات
+[پادکست باز](https://soundcloud.com/buzzz-podcast) | یک پادکست فارسی در مورد علوم مغز، کامپیوتر و** کامپیوتر بینایی**، **علوم شناختی**، **نوروساینس** و علوم اعصاب محاسباتی می‌باشد
 
 
 
