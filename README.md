@@ -20,7 +20,7 @@
 * [مسائل جنسی](#heart-مسائل-جنسی)
 * [موسیقی](#notes-موسیقی)
 * [ورزشی](#runner-ورزشی)
-* [روان‌شناسی](#man_health_worker-روان-شناسی)
+* [روان‌شناسی](#man_health_worker-روانشناسی)
 * [موضوعات دیگر](#heavy_check_mark-موضوعات-دیگر)
 
 
@@ -265,6 +265,8 @@
 [:back: بازگشت به فهرست](#mag_right-فهرست-موضوعات)
 
  ***
+
+
 ## :runner: ورزشی
 
  نام پادکست | توضیحات
@@ -277,22 +279,21 @@
 
 [:back: بازگشت به فهرست](#mag_right-فهرست-موضوعات)
 
-
-
  ***
-## :man_health_worker: روان‌شناسی
+
+
+## :man_health_worker: روانشناسی
 
  نام پادکست | توضیحات
  --- | ---
-[پادکست راوق](https://castbox.fm/episode/%D8%A7%D9%BE%DB%8C%D8%B2%D9%88%D8%AF-%D8%A7%D9%88%D9%84%3A-%D8%B1%D9%88%D8%A7%D9%86%DA%A9%D8%A7%D9%88%DB%8C-%D8%A7%DA%AF%D8%B2%DB%8C%D8%B3%D8%AA%D8%A7%D9%86%D8%B3%DB%8C%D8%A7%D9%84-id2088564-id145134820?utm_source=website&utm_medium=dlink&utm_campaign=web_share&utm_content=%D8%A7%D9%BE%DB%8C%D8%B2%D9%88%D8%AF%20%D8%A7%D9%88%D9%84%3A%20%D8%B1%D9%88%D8%A7%D9%86%DA%A9%D8%A7%D9%88%DB%8C%20%D8%A7%DA%AF%D8%B2%DB%8C%D8%B3%D8%AA%D8%A7%D9%86%D8%B3%DB%8C%D8%A7%D9%84-CastBox_FM) | نگرشی روانشناختی به اگزیستانسیالیسم(فصل اول به سراغ کتاب **روان‌درمانی اگزیستانسیالیسم** از اروین د.یالوم می‌پردازد.)
+[پادکست راوق](https://castbox.fm/channel/%D8%B1%D9%88%D8%A7%D9%82-%2F-Ravaq-id2088564?utm_source=website&utm_medium=dlink&utm_campaign=web_share&utm_content=%D8%B1%D9%88%D8%A7%D9%82%20%2F%20Ravaq-CastBox_FM) | نگرشی روانشناختی به اگزیستانسیالیسم(فصل اول به سراغ کتاب **روان‌درمانی اگزیستانسیالیسم** از اروین د.یالوم می‌پردازد.)
 
 
 
 [:back: بازگشت به فهرست](#mag_right-فهرست-موضوعات)
 
-
-
  ***
+
 
 ## :heavy_check_mark: موضوعات دیگر
 
