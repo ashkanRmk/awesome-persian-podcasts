@@ -286,7 +286,7 @@
 
  نام پادکست | توضیحات
  --- | ---
-[پادکست راوق](https://castbox.fm/channel/%D8%B1%D9%88%D8%A7%D9%82-%2F-Ravaq-id2088564?utm_source=website&utm_medium=dlink&utm_campaign=web_share&utm_content=%D8%B1%D9%88%D8%A7%D9%82%20%2F%20Ravaq-CastBox_FM) | نگرشی روانشناختی به اگزیستانسیالیسم(فصل اول به سراغ کتاب **روان‌درمانی اگزیستانسیالیسم** از اروین د.یالوم می‌پردازد.)
+[پادکست راوق](https://castbox.fm/channel/%D8%B1%D9%88%D8%A7%D9%82-%2F-Ravaq-id2088564?utm_source=website&utm_medium=dlink&utm_campaign=web_share&utm_content=%D8%B1%D9%88%D8%A7%D9%82%20%2F%20Ravaq-CastBox_FM) | نگرشی روانشناختی به اگزیستانسیالیسم(فصل اول به سراغ کتاب **روان‌درمانی اگزیستانسیال** از اروین د.یالوم می‌پردازد.)
 
 
 
