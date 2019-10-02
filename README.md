@@ -87,6 +87,7 @@
 [رشدینو](https://shenoto.com/roshdino) | رادیویی که در آن از هک رشد خواهید شنید
 [فین‌تاک](https://shenoto.com/fintalk) | نشست ماهانه استارت‌آپ‌های فین‌تک
 [قبیله گیک‌ها](https://geekstribemedia.com/category/podcast/) | میکس موزیک مخصوص گیک‌ها| [فید](https://geekstribemedia.com/category/podcast/feed/)
+[کامپایل](https://anchor.fm/compile-podcast) | پادکستی از طرف یه برنامه‌نویس برای برنامه‌نویس‌ها (رامین زارع از دانمارک)
 [لاراپخش](https://shenoto.com/larapakhsh) | لاراپخش، پادکست های صوتی در رابطه با برنامه نویسی | [فید](https://shenoto.com/larapakhsh)
 [مسیر](https://shenoto.com/shahramsharif) | رادیویی که در آن به تکنولوژی و مسیر فناوری های نوین میپردازیم: مسیر به کار بردن فناوری و یا مسیر خلق فناوری و یا مسیری که با استفاده از فناوری ارزشی خلق میشود
 [همفکر](http://hamfekr.net/podcast/) | پادکستی درباره استارتاپ‌ها و دغدغه‌های کارآفرینی
