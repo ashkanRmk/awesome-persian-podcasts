@@ -309,6 +309,7 @@
 [خرس‌های گریزلی مقیم اینجا](https://soundcloud.com/residentgrizzly) | ذهن‌نوشته‌ها و گفتگوهای خرس‌های گریزلی مقیم اینجا
 [رادیو۱۰۰](https://t.me/radioo100) | یک مدیای صوتی با موضوع کنکوره
 [پالیسی](https://soundcloud.com/radiopolicy/radio-policy-0) | کاری از عطا حشمتی و سعید سلیمانی
+[پت کست](https://castbox.fm/channel/id2188907) | پادکستی جامع درباره ی حیوانات خانگی
 [ پنجره](https://t.me/RadioPanjere) | حرف زدن میتونه پنجره کوچیکی باشه برای بیرون پریدن از تنهایی
 [ جامعه نو](http://www.jameeno.com/category/podcast/) | رسانه روزنامه‌نگاران مستقل ایران
 [ جولون](http://namlik.me/channel/%D8%B1%D8%A7%D8%AF%DB%8C%D9%88%20%D8%AC%D9%88%D9%84%D9%88%D9%86) |"جولون" رادیویی است برای گفتن و شنیدن از سفر 🎒
