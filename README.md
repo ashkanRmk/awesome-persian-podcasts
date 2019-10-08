@@ -92,6 +92,7 @@
 [همفکر](http://hamfekr.net/podcast/) | پادکستی درباره استارتاپ‌ها و دغدغه‌های کارآفرینی
 [رادیوتک](http://radiotech.fm/) | رادیویی برای فردا| [فید](http://radiotech.fm/feed/)
 [پادکست چهارراه کامپیوتر](https://shenoto.com/channel/4rahecomputer) | چهارراه کامپیوتر یه پادکست به زبون خودمونی و ساده در مورد تکنولوژی و کامپیوتر، برای همه مردم هست | [فید](https://shenoto.com/feed/4rahecomputer)
+[هشتگ](http://barzegar.eu/hashtagcast/) | هشتگ پادکست تخصصی کامپیوتر و برنامه نویسی
 
 [:back: بازگشت به فهرست](#mag_right-فهرست-موضوعات)
 ***
