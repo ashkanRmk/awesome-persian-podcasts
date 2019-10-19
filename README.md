@@ -89,6 +89,7 @@
 [راکت‌کست](https://roocket.ir/podcast) | پادکستی درباره دنیای برنامه‌نویسی و طراحی
 [رشدینو](https://shenoto.com/roshdino) | رادیویی که در آن از هک رشد خواهید شنید
 [فین‌تاک](https://shenoto.com/fintalk) | نشست ماهانه استارت‌آپ‌های فین‌تک
+[فرانت کست](https://t.me/frontcast) | برنامه نویسی را به ساده ترین زبان ممکن یاد بگیرید.
 [قبیله گیک‌ها](https://geekstribemedia.com/category/podcast/) | میکس موزیک مخصوص گیک‌ها| [فید](https://geekstribemedia.com/category/podcast/feed/)
 [کامپایل](https://anchor.fm/compile-podcast) | پادکستی از طرف یه برنامه‌نویس برای برنامه‌نویس‌ها (رامین زارع از دانمارک)
 [لاراپخش](https://shenoto.com/larapakhsh) | لاراپخش، پادکست های صوتی در رابطه با برنامه نویسی | [فید](https://shenoto.com/larapakhsh)
