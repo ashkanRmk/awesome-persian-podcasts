@@ -119,8 +119,9 @@
 [راننده تاکسی](https://soundcloud.com/sajedrasoulifar/sets/skigmvj3ult9) | نقل ماجراهایی که در یک تاکسی رخ می‌دهد. راننده تاکسی راوی آن است
 [چیروک](https://t.me/chirook_podcast) | چیروک نقل دوباره داستان‌های عامیانه و شفاهی ایران است
 [کلاف](https://kalafpodcast.com) | پادکستی درباره قصه‌هایی واقعی از آدمهای واقعی
-[شعرخوانی](https://t.me/abaaannnn) | توضیح یافت نشد :)
 [کمیکولوژی](https://t.me/comicologyy) | معرفی شخصیت‌های ابرقهرمانی
+[شعرخوانی](https://t.me/abaaannnn) | توضیح یافت نشد :)
+
 
 
 [:back: بازگشت به فهرست](#mag_right-فهرست-موضوعات)
