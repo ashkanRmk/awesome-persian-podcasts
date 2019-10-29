@@ -285,7 +285,7 @@
 [رادیو آفساید](https://t.me/RadioOffside) | پادکست هفتگی فوتبال اروپا
 [عصر MMA](https://t.me/MMAEra) | اولین پادکست فارسی هنرهای رزمی ترکیبی
 [فوتبال‌کست](https://soundcloud.com/footballcast) | اولين پادكست فارسی فوتبال اروپا
-
+[کرنر](https://podcasts.apple.com/us/podcast/%DA%A9%D8%B1%D9%86%D8%B1/id1378002481) | پادکست فوتبال ایران
 
 [:back: بازگشت به فهرست](#mag_right-فهرست-موضوعات)
 
