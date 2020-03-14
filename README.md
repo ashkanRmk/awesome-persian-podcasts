@@ -59,9 +59,8 @@
 [فلسفیدن](http://falsafidan.com/) | فلسفه و فرهنگ عامه
 [لوگوس](https://t.me/logos_podcast) | فلسفه به روایت حامد قدیری
 [مولانا خوانی](https://t.me/molanakhani) | مثنوی را چابک و دلخواه کن ماجرا را موجز و کوتاه کن
-[میم](https://www.podbean.com/podcast-detail/w6mxr-84fc9/MimmPodcast) | پادکست میم به مقاله‌هایی اختصاص داره که برنده یا فینالیست 
-جایزه پولیتز در بخش روزنامه‌نگاری بودن
-[واوکست](https://castbox.fm/channel/پادکست-فارسی-واوکست--Vavcast-id2363282?utm_source=website&utm_medium=dlink&utm_campaign=web_share&utm_content=%D9%BE%D8%A7%D8%AF%DA%A9%D8%B3%D8%AA%20%D9%81%D8%A7%D8%B1%D8%B3%DB%8C%20%D9%88%D8%A7%D9%88%DA%A9%D8%B3%D8%AA%20%2F%20Vavcast-CastBox_FM) | شنیدین میگن وجه تسمیه ی این کلمه چیه؟‌واوکست یه روایت از داستان کلماتی هست که خیلی برامون آشنا هستن، و هر روز باهاشون سروکار داریم 
+[میم](https://www.podbean.com/podcast-detail/w6mxr-84fc9/MimmPodcast) | پادکست میم به مقاله‌هایی اختصاص داره که برنده یا فینالیست جایزه پولیتز در بخش روزنامه‌نگاری بودن 
+[واوکست](https://castbox.fm/channel/پادکست-فارسی-واوکست--Vavcast-id2363282?utm_source=website&utm_medium=dlink&utm_campaign=web_share&utm_content=%D9%BE%D8%A7%D8%AF%DA%A9%D8%B3%D8%AA%20%D9%81%D8%A7%D8%B1%D8%B3%DB%8C%20%D9%88%D8%A7%D9%88%DA%A9%D8%B3%D8%AA%20%2F%20Vavcast-CastBox_FM) | شنیدین میگن وجه تسمیه ی این کلمه چیه؟‌ واوکست یه روایت از داستان کلماتی هست که خیلی برامون آشنا هستن، و هر روز باهاشون سروکار داریم 
 
 [:back: بازگشت به فهرست](#mag_right-فهرست-موضوعات)
 
