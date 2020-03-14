@@ -197,6 +197,7 @@
  --- | --- | ---
  [استارت باکس](https://startboxpodcast.com/) | درس‌های استارت‌آپ | [فید](https://anchor.fm/s/8d5e6e0/podcast/rss)
  [بادکوبه](https://t.me/badkoobeh) | پادکست آژانس تبلیغاتی بادکوبه
+ [بهترین خودت شو](https://castbox.fm/channel/بهترین-خودت-شو-id2204916?utm_source=website&utm_medium=dlink&utm_campaign=web_share&utm_content=%D8%A8%D9%87%D8%AA%D8%B1%DB%8C%D9%86%20%D8%AE%D9%88%D8%AF%D8%AA%20%D8%B4%D9%88-CastBox_FM) | بهترینِ خودت شو پادکستی برای به اشتراک گذاشتن ناب ترین ایده های دنیای رشد و موفقیت با شماست | [فید](https://anchor.fm/behtarin) 
 [خلاصه](https://t.me/kholase_podcast) | در خلاصه کتاب‌های روز دنيا رو که برای رشد و توسعه‌ی كسب و كار مفید هست رو خلاصه مى كنيم
 [دانروباز](https://soundcloud.com/dunrobuzz) |  ما هر هفته به سراغ کسب‌وکارها و مکان‌های جذاب ایران می‌ریم و درباره‌ی آنها و اخبار و اتفاقات پیرامون آنها صحبت می‌کنیم
 [رادتاکس](http://radtalks.me/) | درباره کسب‌وکار، اینترنت و تجربه‌ها از کامیار راد
