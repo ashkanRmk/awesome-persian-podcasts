@@ -60,7 +60,8 @@
 [لوگوس](https://t.me/logos_podcast) | فلسفه به روایت حامد قدیری
 [مَل](http://malpodcast.ir) | پرنده‌ای که داستان جستجوگران و کاشفان جهان را روایت می‌کند.
 [مولانا خوانی](https://t.me/molanakhani) | مثنوی را چابک و دلخواه کن ماجرا را موجز و کوتاه کن
-[میم](https://www.podbean.com/podcast-detail/w6mxr-84fc9/MimmPodcast) | پادکست میم به مقاله‌هایی اختصاص داره که برنده یا فینالیست جایزه پولیتز در بخش روزنامه‌نگاری بودن
+[میم](https://www.podbean.com/podcast-detail/w6mxr-84fc9/MimmPodcast) | پادکست میم به مقاله‌هایی اختصاص داره که برنده یا فینالیست جایزه پولیتز در بخش روزنامه‌نگاری بودن 
+[واوکست](https://castbox.fm/channel/پادکست-فارسی-واوکست--Vavcast-id2363282?utm_source=website&utm_medium=dlink&utm_campaign=web_share&utm_content=%D9%BE%D8%A7%D8%AF%DA%A9%D8%B3%D8%AA%20%D9%81%D8%A7%D8%B1%D8%B3%DB%8C%20%D9%88%D8%A7%D9%88%DA%A9%D8%B3%D8%AA%20%2F%20Vavcast-CastBox_FM) | شنیدین میگن وجه تسمیه ی این کلمه چیه؟‌ واوکست یه روایت از داستان کلماتی هست که خیلی برامون آشنا هستن، و هر روز باهاشون سروکار داریم 
 
 [:back: بازگشت به فهرست](#mag_right-فهرست-موضوعات)
 
@@ -198,6 +199,7 @@
  --- | --- | ---
  [استارت باکس](https://startboxpodcast.com/) | درس‌های استارت‌آپ | [فید](https://anchor.fm/s/8d5e6e0/podcast/rss)
  [بادکوبه](https://t.me/badkoobeh) | پادکست آژانس تبلیغاتی بادکوبه
+ [بهترین خودت شو](https://castbox.fm/channel/بهترین-خودت-شو-id2204916?utm_source=website&utm_medium=dlink&utm_campaign=web_share&utm_content=%D8%A8%D9%87%D8%AA%D8%B1%DB%8C%D9%86%20%D8%AE%D9%88%D8%AF%D8%AA%20%D8%B4%D9%88-CastBox_FM) | بهترینِ خودت شو پادکستی برای به اشتراک گذاشتن ناب ترین ایده های دنیای رشد و موفقیت با شماست | [فید](https://anchor.fm/behtarin) 
 [خلاصه](https://t.me/kholase_podcast) | در خلاصه کتاب‌های روز دنيا رو که برای رشد و توسعه‌ی كسب و كار مفید هست رو خلاصه مى كنيم
 [دانروباز](https://soundcloud.com/dunrobuzz) |  ما هر هفته به سراغ کسب‌وکارها و مکان‌های جذاب ایران می‌ریم و درباره‌ی آنها و اخبار و اتفاقات پیرامون آنها صحبت می‌کنیم
 [رادتاکس](http://radtalks.me/) | درباره کسب‌وکار، اینترنت و تجربه‌ها از کامیار راد
