@@ -3600,7 +3600,10 @@
 			padding: 5em 5em 3em 5em ;
 			border-top: solid 1px #dddddd;
 		}
-
+		#main > .main i {
+			margin-left: 6px;
+			font-size: 1.4rem;
+		}
 			#main > .main:first-child {
 				border-top: 0;
 			}
