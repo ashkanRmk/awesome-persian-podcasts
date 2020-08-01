@@ -51,26 +51,26 @@
 
 ## :book: تاریخ و ادبیات
 
-| نام پادکست                                                   | توضیحات                                                      |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [Epitome Books](https://epitomebooks.ir/)                    | جایی برای شنیدنِ خلاصه کتاب‌ها                                 |
-| [بندر تهران‌](https://soundcloud.com/bandaretehran)           | پادکستی که هر برنامه آن، دستچینی از متن های ادبی و موسیقی با محوریت موضوعی مشخص است |
-| [بوم](https://t.me/BoomPodcast)                              | پادکست فارسی تاریخ فلسفه                                     |
-| [بیتمیش رادیو](https://anchor.fm/bitmishradio)               | پادکستی به زبان ترکی آذربایجانی روخوانی و شرح افسانه‌های کهن ترکان |
-| [پاراگراف](http://paragraph.podbean.com/feed.xml)            | تاریخ مثل قصه‌ست، قصه‌ها کمک می‌کنند ما عمیق‌تر زندگی کنیم       |
-| [تاریخ تازه‌ها](https://itunes.apple.com/ae/podcast/%D8%AA%D8%A7%D8%B1%DB%8C%D8%AE-%D8%AA%D8%A7%D8%B2%D9%87-%D9%87%D8%A7/id1242026070?mt=2&ign-mpt=uo%3D4) | «تاریخ تازه‌ها» بر گذشته‌ی رخدادهای روز می‌نگرد                 |
-| [تاریکخانه تاریخ](https://podcasts.apple.com/us/podcast/%D8%AA%D8%A7%D8%B1%DB%8C%DA%A9%D8%AE%D8%A7%D9%86%D9%87-%D8%AA%D8%A7%D8%B1%DB%8C%D8%AE/id1435127503) | قصه‌گویی در تاریکخانه تاریخ، شخصیت‌های مهم ملی، در برهه‌هایی از تاریخ معاصر و کهن ایران، معرفی می‌شوند و فعالیتشان مورد بررسی قرار می‌گیرد. |
-| [دستان ۱۱۸](http://www.dastan118.ir/)                        | قصه‌گویی شاهنامه فردوسی                                       |
-| [رادیو دست‌نوشته‌ها](https://soundcloud.com/radiodastneveshteha) | مجموعه پادکست‌هایی درباره تاریخ معاصر ایران بر پایه تاریخ شفاهی،مصاحبه‌های اختصاصی‌ و اسناد آرشیوی |
-| [ساگا](https://t.me/sagapodcast)                             | روایتهای کهن...خوانشی نو پادکستی درباره قصه ها و افسانه ها و اسطوره‌ها |
-| [شعر و ادبیات پارسی](https://itunes.apple.com/dk/podcast/%D8%B4%D8%B9%D8%B1-%D9%88-%D8%A7%D8%AF%D8%A8%DB%8C%D8%A7%D8%AA-%D9%BE%D8%A7%D8%B1%D8%B3%DB%8C/id961844416?mt=2) | اشعار ماندگار در ادبیات پارسی                                |
-| [فردوسی‌خوانی](https://t.me/readingferdowsi)                  | پادکست برای دوستداران مبتدی شاهنامه                          |
-| [فلسفیدن](http://falsafidan.com/)                            | فلسفه و فرهنگ عامه                                           |
-| [لوگوس](https://t.me/logos_podcast)                          | فلسفه به روایت حامد قدیری                                    |
-| [مَل](http://malpodcast.ir)                                   | پرنده‌ای که داستان جستجوگران و کاشفان جهان را روایت می‌کند.    |
-| [مولانا خوانی](https://t.me/molanakhani)                     | مثنوی را چابک و دلخواه کن ماجرا را موجز و کوتاه کن           |
-| [میم](https://www.podbean.com/podcast-detail/w6mxr-84fc9/MimmPodcast) | پادکست میم به مقاله‌هایی اختصاص داره که برنده یا فینالیست جایزه پولیتز در بخش روزنامه‌نگاری بودن |
-| [واوکست](https://castbox.fm/channel/پادکست-فارسی-واوکست--Vavcast-id2363282?utm_source=website&utm_medium=dlink&utm_campaign=web_share&utm_content=%D9%BE%D8%A7%D8%AF%DA%A9%D8%B3%D8%AA%20%D9%81%D8%A7%D8%B1%D8%B3%DB%8C%20%D9%88%D8%A7%D9%88%DA%A9%D8%B3%D8%AA%20%2F%20Vavcast-CastBox_FM) | شنیدین میگن وجه تسمیه ی این کلمه چیه؟‌ واوکست یه روایت از داستان کلماتی هست که خیلی برامون آشنا هستن، و هر روز باهاشون سروکار داریم |
+| نام پادکست                                                   | توضیحات                                                      | فید                                                          |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [Epitome Books](https://epitomebooks.ir/)                    | جایی برای شنیدنِ خلاصه کتاب‌ها                                 | [فید](https://anchor.fm/s/fe11cc0/podcast/rss)               |
+| [بندر تهران‌](https://soundcloud.com/bandaretehran)           | پادکستی که هر برنامه آن، دستچینی از متن های ادبی و موسیقی با محوریت موضوعی مشخص است | [فید](http://feeds.soundcloud.com/users/soundcloud:users:480726951/sounds.rss) |
+| [بوم](https://t.me/BoomPodcast)                              | پادکست فارسی تاریخ فلسفه                                     | [فید](https://anchor.fm/s/687a3d8/podcast/rss)               |
+| [بیتمیش رادیو](https://anchor.fm/bitmishradio)               | پادکستی به زبان ترکی آذربایجانی روخوانی و شرح افسانه‌های کهن ترکان | [فید](https://anchor.fm/s/69f34a8/podcast/rss)               |
+| [پاراگراف](http://paragraph.podbean.com/feed.xml)            | تاریخ مثل قصه‌ست، قصه‌ها کمک می‌کنند ما عمیق‌تر زندگی کنیم       | [فید](https://paragraph.podbean.com/feed.xml)                |
+| [تاریخ تازه‌ها](https://itunes.apple.com/ae/podcast/%D8%AA%D8%A7%D8%B1%DB%8C%D8%AE-%D8%AA%D8%A7%D8%B2%D9%87-%D9%87%D8%A7/id1242026070?mt=2&ign-mpt=uo%3D4) | «تاریخ تازه‌ها» بر گذشته‌ی رخدادهای روز می‌نگرد                 | [فید](http://fa.rfi.fr/%EF%BB%A3%EF%BA%A0%EF%BB%A0%EF%BB%AA-%EF%BB%AB%EF%BA%8E/%D8%AA%D8%A7%D8%B1%DB%8C%D8%AE-%D8%AA%D8%A7%D8%B2%D9%87%E2%80%8C%D9%87%D8%A7/podcast) |
+| [تاریکخانه تاریخ](https://podcasts.apple.com/us/podcast/%D8%AA%D8%A7%D8%B1%DB%8C%DA%A9%D8%AE%D8%A7%D9%86%D9%87-%D8%AA%D8%A7%D8%B1%DB%8C%D8%AE/id1435127503) | قصه‌گویی در تاریکخانه تاریخ، شخصیت‌های مهم ملی، در برهه‌هایی از تاریخ معاصر و کهن ایران، معرفی می‌شوند و فعالیتشان مورد بررسی قرار می‌گیرد. | [فید](https://shenoto.com/service/api/feed/t-tarikh)         |
+| [دستان ۱۱۸](http://www.dastan118.ir/)                        | قصه‌گویی شاهنامه فردوسی                                       |                                                              |
+| [رادیو دست‌نوشته‌ها](https://soundcloud.com/radiodastneveshteha) | مجموعه پادکست‌هایی درباره تاریخ معاصر ایران بر پایه تاریخ شفاهی،مصاحبه‌های اختصاصی‌ و اسناد آرشیوی | [فید](http://feeds.soundcloud.com/users/soundcloud:users:391134/sounds.rss) |
+| [ساگا](https://t.me/sagapodcast)                             | روایتهای کهن...خوانشی نو پادکستی درباره قصه ها و افسانه ها و اسطوره‌ها | [فید](https://anchor.fm/s/6cd4ca8/podcast/rss)               |
+| [شعر و ادبیات پارسی](https://itunes.apple.com/dk/podcast/%D8%B4%D8%B9%D8%B1-%D9%88-%D8%A7%D8%AF%D8%A8%DB%8C%D8%A7%D8%AA-%D9%BE%D8%A7%D8%B1%D8%B3%DB%8C/id961844416?mt=2) | اشعار ماندگار در ادبیات پارسی                                | [فید](http://www.tripira.com/poetry.xml)                     |
+| [فردوسی‌خوانی](https://t.me/readingferdowsi)                  | پادکست برای دوستداران مبتدی شاهنامه                          | [فید](https://feeds.podcastmirror.com/reading-ferdowsi)      |
+| [فلسفیدن](http://falsafidan.com/)                            | فلسفه و فرهنگ عامه                                           |                                                              |
+| [لوگوس](https://t.me/logos_podcast)                          | فلسفه به روایت حامد قدیری                                    | [فید](https://hamed0ghadiri.podbean.com/feed.xml)            |
+| [مَل](http://malpodcast.ir)                                   | پرنده‌ای که داستان جستجوگران و کاشفان جهان را روایت می‌کند.    | [فید](https://anchor.fm/s/1eb363e8/podcast/rss)              |
+| [مولانا خوانی](https://t.me/molanakhani)                     | مثنوی را چابک و دلخواه کن ماجرا را موجز و کوتاه کن           | [فید](https://anchor.fm/s/72002e0/podcast/rss)               |
+| [میم](https://www.podbean.com/podcast-detail/w6mxr-84fc9/MimmPodcast) | پادکست میم به مقاله‌هایی اختصاص داره که برنده یا فینالیست جایزه پولیتز در بخش روزنامه‌نگاری بودن |                                                              |
+| [واوکست](https://castbox.fm/channel/پادکست-فارسی-واوکست--Vavcast-id2363282?utm_source=website&utm_medium=dlink&utm_campaign=web_share&utm_content=%D9%BE%D8%A7%D8%AF%DA%A9%D8%B3%D8%AA%20%D9%81%D8%A7%D8%B1%D8%B3%DB%8C%20%D9%88%D8%A7%D9%88%DA%A9%D8%B3%D8%AA%20%2F%20Vavcast-CastBox_FM) | شنیدین میگن وجه تسمیه ی این کلمه چیه؟‌ واوکست یه روایت از داستان کلماتی هست که خیلی برامون آشنا هستن، و هر روز باهاشون سروکار داریم | [فید](https://vavcast.libsyn.com/rss)                        |
 
 [:back: بازگشت به فهرست](#mag_right-فهرست-موضوعات)
 
