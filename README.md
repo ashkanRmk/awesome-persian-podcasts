@@ -27,7 +27,7 @@
 
 <div dir="ltr">
 
-> ### :clipboard: [قدم‌های بعدی](#clipboard-قدم‌های-بعدی)
+> ### :clipboard: [قدم‌های بعدی](#user-content-clipboard-قدمهای-بعدی-1)
 >
 > ### :busts_in_silhouette: [مشارکت](#octocat-مشارکت)
 
