@@ -130,6 +130,7 @@
 [رادیو منزوی](https://twitter.com/radiomonzavi)|رادیو منزوی، منزوی‌ترین گوشهٔ فکری ماست، جایی برای یک لحظه فارغ از همه چیز شدن
 [راندوو](https://shenoto.com/album/24102) | در هر راندوو، شما به یک قسمت از یک رمان فرانسوی گوش خواهید داد و سپس ترجمه و توضیح شفاهی آن را خواهید شنید
 [راننده تاکسی](https://soundcloud.com/sajedrasoulifar/sets/skigmvj3ult9) | نقل ماجراهایی که در یک تاکسی رخ می‌دهد. راننده تاکسی راوی آن است
+[ساعت صفر](https://castbox.fm/channel/Saate-Sefr-%7C-%D9%BE%D8%A7%D8%AF%DA%A9%D8%B3%D8%AA-%D9%81%D8%A7%D8%B1%D8%B3%DB%8C-%D8%B3%D8%A7%D8%B9%D8%AA-%D8%B5%D9%81%D8%B1-id2393990?country=us) | .ساعت صفر اولین پادکست داستان سریالی معمایی و ترسناک فارسی. توجه : شاید شنیدن این پادکست برای افراد زیر 15 سال مناسب نباشد
 [شعرخوانی](https://t.me/abaaannnn) | توضیح یافت نشد :)
 [کافه تریا](https://soundcloud.com/sajedrasoulifar/sets/cofetria) | اوهام و خیالات یک مرد
 [کانال بی](https://t.me/channelbpodcast) | روایت شنیدنیِ ماجراهای واقعی
