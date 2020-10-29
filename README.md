@@ -58,6 +58,7 @@
 | [بوم](https://t.me/BoomPodcast) | پادکست فارسی تاریخ فلسفه | [فید](https://anchor.fm/s/687a3d8/podcast/rss) |
 | [بیتمیش رادیو](https://anchor.fm/bitmishradio) | پادکستی به زبان ترکی آذربایجانی روخوانی و شرح افسانه‌های کهن ترکان | [فید](https://anchor.fm/s/69f34a8/podcast/rss) |
 | [پاراگراف](http://paragraph.podbean.com/feed.xml) | تاریخ مثل قصه‌ست، قصه‌ها کمک می‌کنند ما عمیق‌تر زندگی کنیم | [فید](https://paragraph.podbean.com/feed.xml) |
+[پرسه](https://castbox.fm/channel/Parseh-Podcast-id3147344?country=us) | در پرسه، من از کنجکاوی‌هام، گشت‌وگذارهام و پرسه‌هام لابلای کتاب‌ها میگم
 | [تاریخ تازه‌ها](https://itunes.apple.com/ae/podcast/%D8%AA%D8%A7%D8%B1%DB%8C%D8%AE-%D8%AA%D8%A7%D8%B2%D9%87-%D9%87%D8%A7/id1242026070?mt=2&ign-mpt=uo%3D4) | «تاریخ تازه‌ها» بر گذشته‌ی رخدادهای روز می‌نگرد | [فید](http://fa.rfi.fr/%EF%BB%A3%EF%BA%A0%EF%BB%A0%EF%BB%AA-%EF%BB%AB%EF%BA%8E/%D8%AA%D8%A7%D8%B1%DB%8C%D8%AE-%D8%AA%D8%A7%D8%B2%D9%87%E2%80%8C%D9%87%D8%A7/podcast) |
 | [تاریکخانه تاریخ](https://podcasts.apple.com/us/podcast/%D8%AA%D8%A7%D8%B1%DB%8C%DA%A9%D8%AE%D8%A7%D9%86%D9%87-%D8%AA%D8%A7%D8%B1%DB%8C%D8%AE/id1435127503) | قصه‌گویی در تاریکخانه تاریخ، شخصیت‌های مهم ملی، در برهه‌هایی از تاریخ معاصر و کهن ایران، معرفی می‌شوند و فعالیتشان مورد بررسی قرار می‌گیرد. | [فید](https://shenoto.com/service/api/feed/t-tarikh) |
 | [دستان ۱۱۸](http://www.dastan118.ir/) | قصه‌گویی شاهنامه فردوسی | |
@@ -65,7 +66,8 @@
 | [ساگا](https://t.me/sagapodcast) | روایتهای کهن...خوانشی نو پادکستی درباره قصه ها و افسانه ها و اسطوره‌ها | [فید](https://anchor.fm/s/6cd4ca8/podcast/rss) |
 | [شعر و ادبیات پارسی](https://itunes.apple.com/dk/podcast/%D8%B4%D8%B9%D8%B1-%D9%88-%D8%A7%D8%AF%D8%A8%DB%8C%D8%A7%D8%AA-%D9%BE%D8%A7%D8%B1%D8%B3%DB%8C/id961844416?mt=2) | اشعار ماندگار در ادبیات پارسی | [فید](http://www.tripira.com/poetry.xml) |
 | [فردوسی‌خوانی](https://t.me/readingferdowsi) | پادکست برای دوستداران مبتدی شاهنامه | [فید](https://feeds.podcastmirror.com/reading-ferdowsi) |
-| [فلسفیدن](http://falsafidan.com/) | فلسفه و فرهنگ عامه | |
+| [قصه کلیدر](https://castbox.fm/channel/%D9%82%D8%B5%D9%87-%DA%A9%D9%84%DB%8C%D8%AF%D8%B1-id2891142?country=us) | کلیدر عنوان طولانی ترین رمان فارسی به قلم آقای محمود دولت آبادی است. در پادکست سریالی قصه کلیدر خلاصه این رمان رو به زبان ساده برای شما روایت میکنم
+[فلسفیدن](http://falsafidan.com/) | فلسفه و فرهنگ عامه | |
 | [لوگوس](https://t.me/logos_podcast) | فلسفه به روایت حامد قدیری | [فید](https://hamed0ghadiri.podbean.com/feed.xml) |
 | [مَل](http://malpodcast.ir) | پرنده‌ای که داستان جستجوگران و کاشفان جهان را روایت می‌کند. | [فید](https://anchor.fm/s/1eb363e8/podcast/rss) |
 | [مولانا خوانی](https://t.me/molanakhani) | مثنوی را چابک و دلخواه کن ماجرا را موجز و کوتاه کن | [فید](https://anchor.fm/s/72002e0/podcast/rss) |
@@ -130,6 +132,7 @@
 | [رادیو منزوی](https://twitter.com/radiomonzavi) | رادیو منزوی، منزوی‌ترین گوشهٔ فکری ماست، جایی برای یک لحظه فارغ از همه چیز شدن | |
 | [راندوو](https://shenoto.com/album/24102) | در هر راندوو، شما به یک قسمت از یک رمان فرانسوی گوش خواهید داد و سپس ترجمه و توضیح شفاهی آن را خواهید شنید | [فید](https://randevoo.podbean.com/feed.xml) |
 | [راننده تاکسی](https://soundcloud.com/sajedrasoulifar/sets/skigmvj3ult9) | نقل ماجراهایی که در یک تاکسی رخ می‌دهد. راننده تاکسی راوی آن است | |
+[راوی](https://castbox.fm/channel/Ravi-%7C-%D8%B1%D8%A7%D9%88%DB%8C-id2411980?country=us) | ما روایت گر قصه زندگی افرادی هستیم که یک چالشی توی زندگیشون باعث شده قصه زندگیشون شنیدنی تر بشه.
 | [شعرخوانی](https://t.me/abaaannnn) | توضیح یافت نشد :) | |
 | [کافه تریا](https://soundcloud.com/sajedrasoulifar/sets/cofetria) | اوهام و خیالات یک مرد | |
 | [کانال بی](https://t.me/channelbpodcast) | روایت شنیدنیِ ماجراهای واقعی | [فید](https://channelb.libsyn.com/rss) |
@@ -297,6 +300,7 @@
 
 | نام پادکست | توضیحات | فید |
 | --- | ------- | ---------- |
+ [اوتسایدرز](https://castbox.fm/channel/%D9%BE%D8%A7%D8%AF%DA%A9%D8%B3%D8%AA-%D8%A7%D9%88%D8%AA%D8%B3%D8%A7%DB%8C%D8%AF%D8%B1%D8%B2--Outsiders-Podcast-id2760955?country=us) | پادکست اوتسایدرز، به تاریخ ورزش خواهد رفت. داستان افراد و قصه‌های فراموش شده را بررسی خواهیم کرد. با سجاد بیات و علی امیری‌فر همراه باشید.
 | [دبلیو اسپورت](https://radiopublic.com/-6B3XvR) | پادکست تخصصی ورزش زنان | |
 | [رادیو آفساید](https://t.me/RadioOffside) | پادکست هفتگی فوتبال اروپا | [فید](http://feeds.feedburner.com/Radiooffside) |
 | [عصر MMA](https://t.me/MMAEra) | اولین پادکست فارسی هنرهای رزمی ترکیبی | |
@@ -351,6 +355,7 @@
 [ دلخون](https://t.me/radio_delkhon) | توضیح یافت نشد :)
 [دموکراسی درکار](https://datwfa.blubrry.net/?author=1) | درمانی بر سرمایه‌داری
 [روزآروز](https://soundcloud.com/roozarooz_media) |روزآروز یک رسانه خبری‌-تحلیلیِ خصوصی است
+[روزن](https://castbox.fm/channel/Rozan-%7C-%D8%B1%D9%88%D8%B2%D9%86-id2043852?country=us) | چرا برابری جنسیتی برای همه خوب است؟ در این پادکست در مورد موضوعاتی صحبت می‌کنم که زمینه‌ساز تبعیض و نابرابری در جوامع امروز می‌شوند.
 [روژان](https://t.me/rojanradio) | در حاشیه الوند، کردها دختران چشم رنگی خود را روژان نام گذاری می کنند
 [ روغن حبه‌ی انگور](https://soundcloud.com/tehranpodcast/sets/radioangoor) | کاری مشترک از مادر و پسری‌ست که در هر قسمت، قسمتی از کتاب، قسمتی از فیلم و صدایی از محیط را میشنویم 
 [زنگ پرتو](https://soundcloud.com/user-76324406) | پادکست‌های مدرسه پرتو - ترویج، حمایت‌گری و کارآفرینی اجتماعی در حوزه افراد دارای معلولیت
@@ -379,6 +384,7 @@
 [هنگامه](https://anchor.fm/kamran856) | پادکست هنگامه فعلا درباره‌ی توسعه‌ی (اقتصادی-سیاسی-اجتماعی) است.
 [هیرولیک](https://herolicpodcast.podbean.com/) | پادکست روایت تولد و زیست ابرقهرمان‌ها
 [هیچ‌کیدز](http://manjanigh.com/?cat=5) | توضیح یافت نشد :)
+[یک پنجره](https://castbox.fm/channel/%D9%BE%D8%A7%D8%AF%DA%A9%D8%B3%D8%AA-%D9%81%D8%A7%D8%B1%D8%B3%DB%8C-%DB%8C%DA%A9-%D9%BE%D9%86%D8%AC%D8%B1%D9%87-YekPanjare-id2418435?country=us) | در هر قسمت از پادکست فارسی یک‌ پنجره، یک جستار یا تجربه‌ی شخصی یک نویسنده یا خبرنگار را روایت می‌کنیم
 
 [:back: بازگشت به فهرست](#mag_right-فهرست-موضوعات)
 
