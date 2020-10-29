@@ -249,6 +249,7 @@
 | [پادکست فنامنا](http://alisekhavati.com/%D8%A8%D9%87-%D8%B1%D8%A7%D9%87-%D8%A8%D8%A7%D8%AF%DB%8C%D9%87/%D9%BE%D8%A7%D8%AF%DA%A9%D8%B3%D8%AA-%D9%81%D8%A7%D8%B1%D8%B3%DB%8C-%D9%81%D9%86%D8%A7%D9%85%D9%86%D8%A7/) | گفتگو درباره اتفاق‌های زندگی عادی که خیلی وقت‌ها نادیده گرفته و فراموش می‌شوند. | |
 | [میرکت](https://t.me/Meerkat_Podcast) | گپ و گفتگوی اسماعیل میرفخرایی و سیاوش صفاریان‌پور | [فید](https://shenoto.com/service/api/feed/Meerkat_podcast) |
 | [هلی تاک](https://castbox.fm/channel/Hellitalk-id1475736?country=us) | پادکست گفتگو محور در مورد توسعه فردی | [فید](https://hellitalk.podbean.com/feed.xml) |
+| [طبقه 16](https://www.youtube.com/channel/UCkQHRufVtt7tchYqo5_mwww) | پادکست گفتگو محور در مورد کسب و کار و استارتاپ به میزبانی سهیل علوی بنیانگذار ریحون | |
 
 [:back: بازگشت به فهرست](#mag_right-فهرست-موضوعات)
 
