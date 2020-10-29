@@ -226,6 +226,7 @@
 
 | نام پادکست | توضیحات | فید |
 | --- | ------- | ---------- |
+[آگاه باش](https://anchor.fm/agahbash) | مجموعه اول اين پادكست در مورد داستان زندگي مهرنوش هست كه توي ٤ الي ٥ قسمت ضبط شده
 | [اجنبی](https://soundcloud.com/vivsworld/sets/ajnabi) | وحیده از داستان مهاجرتش و همه چیزایی هم که الان داره براش اتفاق می افته حرف میزنه | [فید](https://anchor.fm/s/c275a4/podcast/rss) |
 | [آدمهای معمولی](https://castbox.fm/ch/1988832) | من ناهید مزیدی هستم و در این پادکست هر بار با یک نفر درباره داستان زندگیش گفتگو میکنم. | [فید](http://rss.castbox.fm/everest/1c4f9bb4ae724fd3b051901410d1730e.xml) |
 | [جیگسا](https://t.me/JigsawPodcast) | بررسی و توضیح یک مسئله | [فید](https://anchor.fm/s/6879c6c/podcast/rss) |
@@ -243,7 +244,6 @@
 | [پادکست فنامنا](http://alisekhavati.com/%D8%A8%D9%87-%D8%B1%D8%A7%D9%87-%D8%A8%D8%A7%D8%AF%DB%8C%D9%87/%D9%BE%D8%A7%D8%AF%DA%A9%D8%B3%D8%AA-%D9%81%D8%A7%D8%B1%D8%B3%DB%8C-%D9%81%D9%86%D8%A7%D9%85%D9%86%D8%A7/) | گفتگو درباره اتفاق‌های زندگی عادی که خیلی وقت‌ها نادیده گرفته و فراموش می‌شوند. | |
 | [میرکت](https://t.me/Meerkat_Podcast) | گپ و گفتگوی اسماعیل میرفخرایی و سیاوش صفاریان‌پور | [فید](https://shenoto.com/service/api/feed/Meerkat_podcast) |
 | [هلی تاک](https://castbox.fm/channel/Hellitalk-id1475736?country=us) | پادکست گفتگو محور در مورد توسعه فردی | [فید](https://hellitalk.podbean.com/feed.xml) |
-
 
 [:back: بازگشت به فهرست](#mag_right-فهرست-موضوعات)
 
