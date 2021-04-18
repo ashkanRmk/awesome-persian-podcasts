@@ -308,6 +308,7 @@
 | [فوتبال‌کست](https://soundcloud.com/footballcast) | اولين پادكست فارسی فوتبال اروپا | |
 | [فوتبال لب](https://footballlabpod.podbean.com/) | پادکست فارسی هفتگی تحلیل فوتبال باشگاهی اروپا - تحلیل هایی که هیچ جای دیگه نمی شنوید | [فید](https://footballlabpod.podbean.com/feed.xml) |
 | [کرنر](https://podcasts.apple.com/us/podcast/%DA%A9%D8%B1%D9%86%D8%B1/id1378002481) | پادکست فوتبال ایران | [فید](https://shenoto.com/service/api/feed/Corner) |
+| [کاتبک](https://t.me/cutback_ir) | پادکست تخصصی فوتبال اروپا | [فید](https://feed.podbean.com/cutbackpod/feed.xml) |
 
 [:back: بازگشت به فهرست](#mag_right-فهرست-موضوعات)
 
