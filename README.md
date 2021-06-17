@@ -9,20 +9,26 @@
 
 ## :mag_right: فهرست موضوعات
 
-* [بچه‌ها و خانواده](#family_man_woman_girl_boy-بچهها-و-خانواده)
-* [تاریخ و ادبیات](#book-تاریخ-و-ادبیات)
-* [تکنولوژی](#computer-تکنولوژی)
-* [داستانی](#books-داستانی)
-* [روان‌شناسی](#man_health_worker-روانشناسی)
-* [سینما و عکاسی](#performing_arts-سینما-و-عکاسی)
-* [طنز](#circus_tent-طنز)
-* [علمی](#microscope-علمی)
-* [مسائل جنسی](#heart-مسائل-جنسی)
-* [موسیقی](#notes-موسیقی)
-* [موضوعات دیگر](#heavy_check_mark-موضوعات-دیگر)
-* [ورزشی](#runner-ورزشی)
-* [کسب و کار](#briefcase-کسب-و-کار)
-* [گفتگو محور](#speech_balloon-گفتگو-محور)
+- [:headphones: لیست بهترین پادکست‌های فارسی](#headphones-لیست-بهترین-پادکستهای-فارسی)
+  - [:mag_right: فهرست موضوعات](#mag_right-فهرست-موضوعات)
+  - [:exclamation: تذکر:](#exclamation-تذکر)
+  - [:family_man_woman_girl_boy: بچه‌ها و خانواده](#family_man_woman_girl_boy-بچهها-و-خانواده)
+  - [:book: تاریخ و ادبیات](#book-تاریخ-و-ادبیات)
+  - [:computer: تکنولوژی](#computer-تکنولوژی)
+  - [:books: داستانی](#books-داستانی)
+  - [:performing_arts: سینما و عکاسی](#performing_arts-سینما-و-عکاسی)
+  - [:circus_tent: طنز](#circus_tent-طنز)
+  - [:microscope: علمی](#microscope-علمی)
+  - [:briefcase: کسب و کار](#briefcase-کسب-و-کار)
+  - [:speech_balloon: گفتگو محور](#speech_balloon-گفتگو-محور)
+  - [:heart: مسائل جنسی](#heart-مسائل-جنسی)
+  - [:notes: موسیقی](#notes-موسیقی)
+  - [:runner: ورزشی](#runner-ورزشی)
+  - [:man_health_worker: روانشناسی](#man_health_worker-روانشناسی)
+  - [:heavy_check_mark: موضوعات دیگر](#heavy_check_mark-موضوعات-دیگر)
+  - [:clipboard: قدم‌های بعدی](#clipboard-قدمهای-بعدی)
+  - [:octocat: مشارکت](#octocat-مشارکت)
+  - [:heart: باتشکر از کسانی که بهمون کمک کردند:](#heart-باتشکر-از-کسانی-که-بهمون-کمک-کردند)
 
 
 <div dir="ltr">
@@ -192,6 +198,7 @@
 | [استرینگ‌بوکس](https://itunes.apple.com/us/podcast/stringbooks/id1402780361?mt=2) | معرفی و خلاصه کتاب‌های علمی و غیرروایی | [فید](stringbooks.libsyn.com/rss) |
 | [استرینگ‌کست](http://stringcast.ir) | دوهفته‌نامه صوتی که جالب‌ترین و عجیب‌ترین موضوعات علمی رو به بامزه‌ترین شکل ممکن و با بهترین موسیقی‌های ممکن در زمانی کوتاه براتون تعریف می‌کنه | [فید](http://stringcast.ir/feed/podcast) |
 | [پادکست باز](https://soundcloud.com/buzzz-podcast) | یک پادکست فارسی در مورد __علوم مغز__، کامپیوتر و __بینایی کامپیوتر__، **علوم شناختی**، **نوروساینس** و __علوم اعصاب__ محاسباتی می‌باشد | |
+| [خوانش کتاب برای انسان خردمند](https://castbox.fm/channel/خوانش-کتاب-برای-انسان-خردمند-id3112339) | کتاب‌هایی از یووال نوح هراری، میچیو کاکو، ریچارد داوکینز، استیون هاوکینگ، ایزاک آسیموف، نیل دگرس تایسون، جرج گاموف، رودی راکر، سوزان بلک‌مور و بسیاری دیگر.‌.. | [فید](https://anchor.fm/s/179e3420/podcast/rss) |
 | [دایجست](https://t.me/digesttt) | پادکستی برای توضیح مسائل نسبتاً پیچیده دنیای اطراف ما | [فید](https://feed.podbean.com/digesttt/feed.xml) |
 | [کاگنتیو کست](https://castbox.fm/channel/id2187529?utm_source=website&utm_medium=dlink&utm_campaign=web_share&utm_content=Cognitive%20Cast%20%7C%20%DA%A9%D8%A7%DA%AF%D9%86%D8%AA%DB%8C%D9%88%20%DA%A9%D8%B3%D8%AA-CastBox_FM) | پادکستی برای **شناخت ذهن، مغز و رفتار انسان** از دریچهٔ **علوم شناختی**(فصل اول درباره‌ی رویکردهای مطالعهٔ ذهن در روانشناسی است) | [فید](https://anchor.fm/s/c2fa934/podcast/rss) |
 | [رادیو پیوست](http://peivast.com/peivast-radio/) | ماهنامه اطلاع‌رسانی، پژوهشی، تحلیلی و فرهنگی | [فید](http://peivast.kasta.ir/podcasts/feed) |
