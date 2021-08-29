@@ -131,8 +131,36 @@
           </div>
         </section>
 	      <span id="PPTrust">PPTrust</span>
-	      <script src="https://cdn.payping.ir/statics/trust-v2.js">
-	     
+	      <script>
+
+var ppLogoUrl = document.currentScript.getAttribute('theme') === 'light' ? 'https://cdn.payping.ir/statics/Payping-logo/Trust/white.svg' : 'https://cdn.payping.ir/statics/Payping-logo/Trust/blue.svg';
+var ppLogoSize = document.currentScript.getAttribute('size');
+var ppLogo = 'width:96px;height:115px;';
+
+switch (ppLogoSize) {
+  case 'lg':
+    ppLogo = 'width:144px;height:173px;';
+    break;
+
+  case 'sm':
+    ppLogo = 'width:64px;height:77px;';
+    break;
+}
+
+var PPTrust = document.getElementById('PPTrust');
+var PPa = document.createElement('a');
+var PPimg = document.createElement('img');
+PPimg.style = ppLogo;
+PPimg.src = ppLogoUrl;
+PPimg.alt = 'Ł†Ł…Ų§ŲÆ Ų§Ų¹ŲŖŁ…Ų§ŲÆ Ł¾Ūā€Ł¾ŪŁ†ŚÆ';
+PPa.href = 'javascript:showPayPing();';
+PPa.title = 'Ł†Ł…Ų§ŲÆ Ų§Ų¹ŲŖŁ…Ų§ŲÆ Ł¾Ūā€Ł¾ŪŁ†ŚÆ';
+PPa.appendChild(PPimg);
+PPTrust.appendChild(PPa);
+
+function showPayPing() {
+  window.open('https://oauth.payping.ir/trust', '_blank', 'location=yes,height=570,width=520,scrollbars=yes,status=yes');
+}	     
 </script>
         <section
           id="first"
