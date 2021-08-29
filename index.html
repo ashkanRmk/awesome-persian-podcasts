@@ -130,7 +130,42 @@
 
           </div>
         </section>
+	      <script>
+	      var ppLogoUrl =
+	document.currentScript.getAttribute('theme') === 'light'
+		? 'https://cdn.payping.ir/statics/Payping-logo/Trust/white.svg'
+		: 'https://cdn.payping.ir/statics/Payping-logo/Trust/blue.svg';
+var ppLogoSize = document.currentScript.getAttribute('size');
+var ppLogo = 'width:96px;height:115px;';
 
+switch (ppLogoSize) {
+	case 'lg':
+		ppLogo = 'width:144px;height:173px;';
+		break;
+
+	case 'sm':
+		ppLogo = 'width:64px;height:77px;';
+		break;
+}
+
+var PPTrust = document.getElementById('PPTrust');
+var PPa = document.createElement('a');
+var PPimg = document.createElement('img');
+PPimg.style = ppLogo;
+PPimg.src = ppLogoUrl;
+PPimg.alt = 'نماد اعتماد پی‌پینگ';
+PPimg.referrerPolicy = 'origin';
+PPa.referrerPolicy = 'origin';
+PPa.href = 'https://oauth.payping.ir/trust';
+PPa.title = 'نماد اعتماد پی‌پینگ';
+PPa.setAttribute(
+	'onclick',
+	"event.preventDefault();window.open('https://oauth.payping.ir/trust','_blank','location=yes,height=720,width=520,scrollbars=yes,status=yes');"
+);
+
+PPa.appendChild(PPimg);
+PPTrust.appendChild(PPa);
+</script>
         <section
           id="first"
           class="main"
