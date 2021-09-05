@@ -397,6 +397,7 @@
 [هیرولیک](https://herolicpodcast.podbean.com/) | پادکست روایت تولد و زیست ابرقهرمان‌ها
 [هیچ‌کیدز](http://manjanigh.com/?cat=5) | توضیح یافت نشد :)
 [یک پنجره](https://castbox.fm/channel/%D9%BE%D8%A7%D8%AF%DA%A9%D8%B3%D8%AA-%D9%81%D8%A7%D8%B1%D8%B3%DB%8C-%DB%8C%DA%A9-%D9%BE%D9%86%D8%AC%D8%B1%D9%87-YekPanjare-id2418435?country=us) | در هر قسمت از پادکست فارسی یک‌ پنجره، یک جستار یا تجربه‌ی شخصی یک نویسنده یا خبرنگار را روایت می‌کنیم
+[یک پزشک](https://podcasts.google.com/feed/aHR0cDovL3d3dy4xcGV6ZXNoay5jb20vYXRvbS54bWw=) | پادکست علیرضا مجیدی از وبلاگ یک پزشک 
 
 [:back: بازگشت به فهرست](#mag_right-فهرست-موضوعات)
 
