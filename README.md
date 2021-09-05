@@ -146,6 +146,8 @@
 | [کلاف](https://kalafpodcast.com) | پادکستی درباره قصه‌هایی واقعی از آدمهای واقعی | [فید](https://kalaf.podbean.com/feed.xml) |
 | [کمیکولوژی](https://t.me/comicologyy) | معرفی شخصیت‌های ابرقهرمانی | [فید](https://anchor.fm/s/d863dfc/podcast/rss) |
 [ساعت صفر](https://castbox.fm/channel/Saate-Sefr-%7C-%D9%BE%D8%A7%D8%AF%DA%A9%D8%B3%D8%AA-%D9%81%D8%A7%D8%B1%D8%B3%DB%8C-%D8%B3%D8%A7%D8%B9%D8%AA-%D8%B5%D9%81%D8%B1-id2393990?country=gb) | اولین پادکست داستان سریالی معمایی و ترسناک فارسی **(توجه : شاید شنیدن این پادکست برای افراد زیر 15 سال مناسب نباشد)**
+[آجیل](https://instagram.com/ajilpodcast?igshid=a6yv5l63mq1a) | شبنم و یاسی از مسائلی که توی دنیای امروز اتفاق می افته میگن. در هر اپیزود موضوعات اجتماعی، فرهنگی، علمی و ... رو از یک زاویه ی جدید خواهید شنید.
+
 
 [:back: بازگشت به فهرست](#mag_right-فهرست-موضوعات)
 
