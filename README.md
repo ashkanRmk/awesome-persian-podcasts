@@ -79,6 +79,7 @@
 | [مولانا خوانی](https://t.me/molanakhani) | مثنوی را چابک و دلخواه کن ماجرا را موجز و کوتاه کن | [فید](https://anchor.fm/s/72002e0/podcast/rss) |
 | [میم](https://www.podbean.com/podcast-detail/w6mxr-84fc9/MimmPodcast) | پادکست میم به مقاله‌هایی اختصاص داره که برنده یا فینالیست جایزه پولیتز در بخش روزنامه‌نگاری بودن | |
 | [واوکست](https://castbox.fm/channel/پادکست-فارسی-واوکست--Vavcast-id2363282?utm_source=website&utm_medium=dlink&utm_campaign=web_share&utm_content=%D9%BE%D8%A7%D8%AF%DA%A9%D8%B3%D8%AA%20%D9%81%D8%A7%D8%B1%D8%B3%DB%8C%20%D9%88%D8%A7%D9%88%DA%A9%D8%B3%D8%AA%20%2F%20Vavcast-CastBox_FM) | شنیدین میگن وجه تسمیه ی این کلمه چیه؟‌ واوکست یه روایت از داستان کلماتی هست که خیلی برامون آشنا هستن، و هر روز باهاشون سروکار داریم | [فید](https://vavcast.libsyn.com/rss) |
+| [رخ](https://castbox.fm/channel/%D9%BE%D8%A7%D8%AF%DA%A9%D8%B3%D8%AA-%D8%B1%D8%AE-id2748108?country=us) | داستان زندگی کسانی که قسمتی از تاریخ ایران و جهان را رقم زدند| |
 
 [:back: بازگشت به فهرست](#mag_right-فهرست-موضوعات)
 
