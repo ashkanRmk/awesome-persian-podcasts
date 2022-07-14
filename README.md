@@ -114,8 +114,7 @@
 | [لاراپخش](https://shenoto.com/larapakhsh) | لاراپخش، پادکست های صوتی در رابطه با برنامه نویسی | [فید](https://shenoto.com/larapakhsh) |
 | [مسیر](https://shenoto.com/shahramsharif) | رادیویی که در آن به تکنولوژی و مسیر فناوری های نوین میپردازیم: مسیر به کار بردن فناوری و یا مسیر خلق فناوری و یا مسیری که با استفاده از فناوری ارزشی خلق میشود | [فید](https://feed.podbean.com/pourya/feed.xml) |
 | [همفکر](http://hamfekr.net/podcast/) | پادکستی درباره استارتاپ‌ها و دغدغه‌های کارآفرینی | |
-| [هشتگ](http://barzegar.eu/hashtagcast/) | هشتگ پادکست تخصصی کامپیوتر و برنامه نویسی | [فید](https://rss.castbox.fm/everest/e603271a466e40848c725f09fa878108.xml) |
-| [پادکد](https://podcode.ir) | توی پادکد همه میتونن ضبط کنن، پادکد یک وبسایت برای پادکست های برنامه نویسی عه |
+| [هشتگ](http://barzegar.eu/hashtagcast/) | هشتگ پادکست تخصصی کامپیوتر و برنامه نویسی | [فید](https://rss.castbox.fm/everest/e603271a466e40848c725f09fa878108.xml) | |
 
 [:back: بازگشت به فهرست](#mag_right-فهرست-موضوعات)
 ***
