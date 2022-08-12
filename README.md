@@ -78,6 +78,7 @@
 | [مَل](http://malpodcast.ir) | پرنده‌ای که داستان جستجوگران و کاشفان جهان را روایت می‌کند. | [فید](https://anchor.fm/s/1eb363e8/podcast/rss) |
 | [مولانا خوانی](https://t.me/molanakhani) | مثنوی را چابک و دلخواه کن ماجرا را موجز و کوتاه کن | [فید](https://anchor.fm/s/72002e0/podcast/rss) |
 | [میم](https://www.podbean.com/podcast-detail/w6mxr-84fc9/MimmPodcast) | پادکست میم به مقاله‌هایی اختصاص داره که برنده یا فینالیست جایزه پولیتز در بخش روزنامه‌نگاری بودن | |
+| [نقال‌باشی](https://castbox.fm/channel/نقال-باشی---Naghal-Bashi-id3185167?utm_source=website&utm_medium=dlink&utm_campaign=web_share&utm_content=%D9%86%D9%82%D8%A7%D9%84%20%D8%A8%D8%A7%D8%B4%DB%8C%20-%20Naghal%20Bashi-CastBox_FM) | این پادکست با خوانش یک کتاب تاریخی و توضیحات تکمیلی راوی به روایت تاریخ معاصر می‌پردازد. | [فید](http://rss.castbox.fm/everest/2f9a9b20a5d148798b722e24ba1c50ab.xml) |
 | [واوکست](https://castbox.fm/channel/پادکست-فارسی-واوکست--Vavcast-id2363282?utm_source=website&utm_medium=dlink&utm_campaign=web_share&utm_content=%D9%BE%D8%A7%D8%AF%DA%A9%D8%B3%D8%AA%20%D9%81%D8%A7%D8%B1%D8%B3%DB%8C%20%D9%88%D8%A7%D9%88%DA%A9%D8%B3%D8%AA%20%2F%20Vavcast-CastBox_FM) | شنیدین میگن وجه تسمیه ی این کلمه چیه؟‌ واوکست یه روایت از داستان کلماتی هست که خیلی برامون آشنا هستن، و هر روز باهاشون سروکار داریم | [فید](https://vavcast.libsyn.com/rss) |
 
 [:back: بازگشت به فهرست](#mag_right-فهرست-موضوعات)
