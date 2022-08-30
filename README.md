@@ -63,7 +63,7 @@
 | [بندر تهران‌](https://soundcloud.com/bandaretehran) | پادکستی که هر برنامه آن، دستچینی از متن های ادبی و موسیقی با محوریت موضوعی مشخص است | [فید](http://feeds.soundcloud.com/users/soundcloud:users:480726951/sounds.rss) |
 | [بوم](https://t.me/BoomPodcast) | پادکست فارسی تاریخ فلسفه | [فید](https://anchor.fm/s/687a3d8/podcast/rss) |
 | [بیتمیش رادیو](https://anchor.fm/bitmishradio) | پادکستی به زبان ترکی آذربایجانی روخوانی و شرح افسانه‌های کهن ترکان | [فید](https://anchor.fm/s/69f34a8/podcast/rss) |
-| [پاراگراف](http://paragraph.podbean.com/feed.xml) | تاریخ مثل قصه‌ست، قصه‌ها کمک می‌کنند ما عمیق‌تر زندگی کنیم | [فید](https://paragraph.podbean.com/feed.xml) |
+| [پاراگراف](https://paragraph.podbean.com/) | تاریخ مثل قصه‌ست، قصه‌ها کمک می‌کنند ما عمیق‌تر زندگی کنیم | [فید](https://paragraph.podbean.com/feed.xml) |
 [پرسه](https://castbox.fm/channel/Parseh-Podcast-id3147344?country=us) | در پرسه، من از کنجکاوی‌هام، گشت‌وگذارهام و پرسه‌هام لابلای کتاب‌ها میگم
 | [تاریخ تازه‌ها](https://itunes.apple.com/ae/podcast/%D8%AA%D8%A7%D8%B1%DB%8C%D8%AE-%D8%AA%D8%A7%D8%B2%D9%87-%D9%87%D8%A7/id1242026070?mt=2&ign-mpt=uo%3D4) | «تاریخ تازه‌ها» بر گذشته‌ی رخدادهای روز می‌نگرد | [فید](http://fa.rfi.fr/%EF%BB%A3%EF%BA%A0%EF%BB%A0%EF%BB%AA-%EF%BB%AB%EF%BA%8E/%D8%AA%D8%A7%D8%B1%DB%8C%D8%AE-%D8%AA%D8%A7%D8%B2%D9%87%E2%80%8C%D9%87%D8%A7/podcast) |
 | [تاریکخانه تاریخ](https://podcasts.apple.com/us/podcast/%D8%AA%D8%A7%D8%B1%DB%8C%DA%A9%D8%AE%D8%A7%D9%86%D9%87-%D8%AA%D8%A7%D8%B1%DB%8C%D8%AE/id1435127503) | قصه‌گویی در تاریکخانه تاریخ، شخصیت‌های مهم ملی، در برهه‌هایی از تاریخ معاصر و کهن ایران، معرفی می‌شوند و فعالیتشان مورد بررسی قرار می‌گیرد. | [فید](https://shenoto.com/service/api/feed/t-tarikh) |
@@ -90,7 +90,7 @@
 | نام پادکست | توضیحات | فید |
 | --- | ------- | ---------- |
 | [IT voice](http://it-voice.ir/) | مرجع تخصصی ضبط پادکست‌های مرتبط با دنیای تکنولوژی | [فید](http://it-voice.ir/feed/) |
-| [ایده کست](https://shenoto.com/ideacast) | گفتگوی زنده و تصویری با کارآفرینان و متخصصین حوزه دیجیتال به صورت هفتگی | |
+| [ایده کست](https://shenoto.com/channel/ideacast) | گفتگوی زنده و تصویری با کارآفرینان و متخصصین حوزه دیجیتال به صورت هفتگی | |
 | [آکادمی‌پلت](https://t.me/PaletAcademy) | پادکست‌های هفتگی و آموزشی دیجیتال مارکتینگ | |
 | [پارادایم](http://namlik.me/channel/%D9%BE%D8%A7%D8%B1%D8%A7%D8%AF%D8%A7%DB%8C%D9%85) | به موضوعات حوزه‌ی استارت‌آپ و کسب و کارها از زاویه‌ی ارتباطات و تعامل می‌پردازد | |
 | [پاراتک](https://theparatech.com/) | پادکستی از امیر صادق‌پور و نیما دادگستر درباره رویدادها و روندهای تکنولوژی | [فید](https://theparatech.com/feed/) |
