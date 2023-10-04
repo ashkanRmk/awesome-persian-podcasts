@@ -130,6 +130,7 @@
 | [پادکست آن](http://handica.art/on/on.html) | در پادکست آن من هربار داستان واقعی آدمها رو تعریف می‌کنم و سعی می‌کنیم خودمون رو جاشون بذاریم | [فید](http://rss.castbox.fm/everest/2e3008bdf0d546e5aec896ab29ef0bfb.xml) |
 | [چیروک](https://t.me/chirook_podcast) | چیروک نقل دوباره داستان‌های عامیانه و شفاهی ایران است | [فید](http://rss.castbox.fm/everest/30a8a0f5f8c74081aad58a0391c879b4.xml) |
 | [هری پاتر](https://harrypotterpodcast.ir/) | با هر قسمت از این پادکست میخوایم شما رو توی دنیای هری پاتر غرق کنیم | [فید](https://anchor.fm/s/defe8c4/podcast/rss) |
+| [داستامینوفن](https://castbox.fm/channel/id3634536?utm_campaign=a_share_ch&utm_medium=dlink&utm_source=a_share&country=us) | داستامینوفِن یه پادکست فارسی برای دوستداران قصه است که جن و پری و پسر کاکل زری تا رستم و سهراب و گودرز شاهنامه قصه میگه | |
 | [داستان شب](https://t.me/dastaneshab) | ما هر شب راس ساعت ۲۳، برای شما یک داستان کوتاه می‌خوانیم | [فید](https://shenoto.com/service/api/feed/dastaneshab) |
 | [رادیو چهرازی](https://soundcloud.com/radiochehrazi-1) | ایده این است که گویی عده‌ای از بیماران آسایشگاه چهرازی | [فید](https://anchor.fm/s/11ca4ad4/podcast/rss) |
 | [رادیو دیو](https://t.me/radiodeev) | رادیو دیو میانبری به حال و هوای سرزمین، مردم یا حتی یک فصل. تم خاص هر اپیزود تشویقمان می‌کند به دنیایی نو سرک بکشیم | [فید](https://anchor.fm/s/6810cbc/podcast/rss) |
@@ -333,6 +334,7 @@
 
 | نام پادکست | توضیحات | فید |
 | --- | ------- | ---------- |
+| [رادیو راه](https://castbox.fm/channel/id4894772?utm_campaign=a_share_ch&utm_medium=dlink&utm_source=a_share&country=us) | رادیوراه کنج آرامی از دنیاست برای خواندن، فکر کردن و جستجوی راهی برای بهتر زیستن. | [فید](https://radioraah.podbean.com/rss) |
 | [رواق](https://castbox.fm/channel/%D8%B1%D9%88%D8%A7%D9%82-%2F-Ravaq-id2088564?utm_source=website&utm_medium=dlink&utm_campaign=web_share&utm_content=%D8%B1%D9%88%D8%A7%D9%82%20%2F%20Ravaq-CastBox_FM) | نگرشی روانشناختی به اگزیستانسیالیسم (فصل اول به مطالعه و بحث پیرامون مباحث کتاب **روان‌درمانی اگزیستانسیال** از اروین د.یالوم می‌پردازد.) | [فید](https://anchor.fm/s/a84cd6c/podcast/rss) |
 
 
