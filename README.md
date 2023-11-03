@@ -104,7 +104,7 @@
 | [رادیو بلاک‌چین](http://t.me/radio_blockchain) | پادکست هایی با هدف بیان مسائل فنی بلاکچین و ارزهای رمزنگاری شده به زبان ساده | [فید](http://radio-blockchain.com/feed.xml) |
 | [رادیوتک](http://radiotech.fm/) | رادیویی برای فردا | [فید](http://radiotech.fm/feed/) |
 | [رادیو فول‌استک](https://sokanacademy.com/podcast) | رادیو فول‌استک سکان آکادمی، به ارائه‌ٔ مصاحبه‌های پادکستی در حوزه‌های برنامه‌نویسی، شبکه، هوش مصنوعی، طراحی سایت، استارتاپ و کارآفرینی و غیره با فعالان آی‌تی می‌پردازد. | [فید](https://sokanacademy.com/podcast/feed) |
-| [رادیو گیک](https://jadi.net/tag/podcast/) | رادیویی برای حرف زدن درباره نقطه تقابل میان تکنولوژی و زندگی انسان | [فید](https://feeds.feedburner.com/radiojadi) |
+| [رادیو جادی](https://jadi.net/tag/podcast/) | رادیویی برای حرف زدن درباره نقطه تقابل میان تکنولوژی و زندگی انسان | [فید](https://feeds.feedburner.com/radiojadi) |
 | [راکت‌کست](https://roocket.ir/podcast) | پادکستی درباره دنیای برنامه‌نویسی و طراحی | |
 | [رشدینو](https://shenoto.com/roshdino) | رادیویی که در آن از هک رشد خواهید شنید | [فید](https://shenoto.com/service/api/feed/roshdino) |
 | [فین‌تاک](https://shenoto.com/fintalk) | نشست ماهانه استارت‌آپ‌های فین‌تک | [فید](https://shenoto.com/service/api/feed/fintalk) |
