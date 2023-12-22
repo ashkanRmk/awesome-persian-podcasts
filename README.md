@@ -54,6 +54,8 @@
 [آی‌قصه](https://podcasts.apple.com/us/podcast/id1475766100) | آی‌قصه؛ جایی برای قصه گفتن و قصه شنفتن! | [فید](https://anchor.fm/s/cf3d0d4/podcast/rss)
 [بارون](https://podcasts.apple.com/us/podcast/id1468770462) | گفتگوهای یه دختر بچه به نام آوینا با باباش در رابطه با موضوعات مختلف | [فید](https://anchor.fm/s/bc662d0/podcast/rss)
 [راوی گنبد کبود](https://podcasts.apple.com/us/podcast/id1455641420) | پادکست راوی گنبد کبود قصد دارد قصه‌هایی را به زبان فارسی در اپیزودهای مختلف منتشر کند. تلاش ما این است داستان‌ها به دوراز کلیشه‌های جنسیتی و قومی باشد. | [فید](https://anchor.fm/s/988611c/podcast/rss)
+[چی؟کجا؟چرا؟](https://whatwherewhykids.com/) | پادکستی برای بچه‌هایی که سوال‌هاشون رو جدی می‌گیرند؟ | [فید](https://feeds.acast.com/public/shows/655a8cde5c5f6900129eef4d)
+
 
 ## :book: تاریخ و ادبیات
 
