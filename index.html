@@ -1,0 +1,485 @@
+<!doctype html>
+<html lang="fa" dir="rtl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>لیست بهترین پادکست‌های فارسی</title>
+<meta name="description" content="فهرست باز و جمعی بهترین پادکست‌های فارسی در حوزه‌های مختلف — همیشه به‌روز با مخزن گیت‌هاب.">
+<meta property="og:title" content="لیست بهترین پادکست‌های فارسی">
+<meta property="og:description" content="فهرست باز و جمعی بهترین پادکست‌های فارسی در حوزه‌های مختلف.">
+<link rel="icon" href='data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><rect x="3" y="14" width="4" height="10" rx="2" fill="%232B4FC2"/><rect x="10" y="8" width="4" height="16" rx="2" fill="%232B4FC2"/><rect x="17" y="4" width="4" height="20" rx="2" fill="%23E9A21B"/><rect x="24" y="11" width="4" height="13" rx="2" fill="%232B4FC2"/></svg>'>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/rastikerdar/vazirmatn@v33.003/Vazirmatn-font-face.css">
+<style>
+  :root {
+    --bg: #F6F6F2;
+    --surface: #FFFFFF;
+    --ink: #1B2440;
+    --muted: #5C6273;
+    --line: rgba(27, 36, 64, .13);
+    --blue: #2B4FC2;
+    --saffron: #E9A21B;
+    --saffron-ink: #96660A;
+    --saffron-soft: rgba(233, 162, 27, .13);
+    --chip-glass: rgba(246, 246, 242, .88);
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #0F1420;
+      --surface: #171E30;
+      --ink: #E8E6DD;
+      --muted: #9BA3B5;
+      --line: rgba(232, 230, 221, .13);
+      --blue: #94AAF6;
+      --saffron: #F0B54A;
+      --saffron-ink: #F0C063;
+      --saffron-soft: rgba(240, 181, 74, .12);
+      --chip-glass: rgba(15, 20, 32, .88);
+    }
+  }
+
+  * { box-sizing: border-box; }
+  html { scroll-behavior: smooth; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--ink);
+    font-family: "Vazirmatn", "Vazir", system-ui, "Segoe UI", Tahoma, sans-serif;
+    font-size: 16px;
+    line-height: 1.9;
+    -webkit-font-smoothing: antialiased;
+  }
+  a { color: var(--blue); text-decoration: none; }
+  a:hover { text-decoration: underline; text-underline-offset: 4px; }
+  :focus-visible { outline: 2px solid var(--saffron); outline-offset: 3px; border-radius: 4px; }
+
+  .wrap { max-width: 860px; margin-inline: auto; padding-inline: 20px; }
+
+  /* ---------- hero ---------- */
+  .hero { padding-block: 72px 40px; }
+  .eq {
+    display: inline-flex;
+    align-items: flex-end;
+    gap: 5px;
+    height: 44px;
+    margin-bottom: 20px;
+  }
+  .eq span {
+    width: 7px;
+    border-radius: 4px;
+    background: var(--ink);
+    animation: eq 1.15s ease-in-out infinite alternate;
+  }
+  .eq span:nth-child(1) { height: 40%; animation-delay: -.2s; }
+  .eq span:nth-child(2) { height: 75%; animation-delay: -.6s; }
+  .eq span:nth-child(3) { height: 100%; background: var(--saffron); animation-delay: -.9s; }
+  .eq span:nth-child(4) { height: 60%; animation-delay: -.4s; }
+  .eq span:nth-child(5) { height: 85%; animation-delay: -.75s; }
+  @keyframes eq { from { transform: scaleY(1); } to { transform: scaleY(.42); } }
+  @media (prefers-reduced-motion: reduce) {
+    .eq span { animation: none; }
+    html { scroll-behavior: auto; }
+  }
+  .eyebrow {
+    font-size: .8rem;
+    font-weight: 500;
+    letter-spacing: .02em;
+    color: var(--saffron-ink);
+    margin: 0 0 6px;
+  }
+  h1.title {
+    font-size: clamp(2rem, 6vw, 3.4rem);
+    font-weight: 900;
+    line-height: 1.35;
+    margin: 0 0 14px;
+    letter-spacing: -.01em;
+  }
+  .tagline {
+    font-size: 1.05rem;
+    color: var(--muted);
+    max-width: 34em;
+    margin: 0 0 10px;
+  }
+  .statline {
+    font-size: .92rem;
+    color: var(--muted);
+    margin: 0 0 28px;
+    min-height: 1.8em;
+  }
+  .statline b { color: var(--ink); font-weight: 700; }
+  .actions { display: flex; flex-wrap: wrap; gap: 14px; align-items: center; }
+  .btn {
+    display: inline-block;
+    background: var(--ink);
+    color: var(--bg);
+    font-weight: 600;
+    font-size: .95rem;
+    padding: 10px 22px;
+    border-radius: 10px;
+    transition: transform .15s ease;
+  }
+  .btn:hover { text-decoration: none; transform: translateY(-1px); }
+  .ghost { font-size: .95rem; font-weight: 500; }
+
+  /* ---------- sticky category chips ---------- */
+  .chips {
+    position: sticky;
+    top: 0;
+    z-index: 10;
+    background: var(--chip-glass);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    border-block: 1px solid var(--line);
+    display: flex;
+    gap: 8px;
+    overflow-x: auto;
+    padding: 10px max(20px, calc((100vw - 860px) / 2 + 20px));
+    scrollbar-width: none;
+  }
+  .chips::-webkit-scrollbar { display: none; }
+  .chip {
+    flex: 0 0 auto;
+    display: inline-flex;
+    align-items: center;
+    gap: 7px;
+    font-size: .85rem;
+    font-weight: 500;
+    color: var(--ink);
+    border: 1px solid var(--line);
+    border-radius: 99px;
+    padding: 4px 14px;
+    white-space: nowrap;
+    transition: border-color .15s ease, background .15s ease;
+  }
+  .chip small {
+    font-size: .72rem;
+    color: var(--muted);
+    font-weight: 400;
+  }
+  .chip:hover { text-decoration: none; border-color: var(--saffron); }
+  .chip.active { background: var(--ink); color: var(--bg); border-color: var(--ink); }
+  .chip.active small { color: var(--bg); opacity: .7; }
+
+  /* ---------- content ---------- */
+  main { padding-block: 12px 40px; }
+  .state { padding-block: 80px; text-align: center; color: var(--muted); }
+  .state a { font-weight: 600; }
+
+  section.cat { padding-block: 44px 8px; scroll-margin-top: 64px; }
+  section.cat + section.cat { border-top: 1px solid var(--line); }
+  section.cat h2, section.aux h2 {
+    font-size: 1.35rem;
+    font-weight: 800;
+    margin: 0 0 4px;
+  }
+  section.cat h2 .count {
+    font-size: .8rem;
+    font-weight: 500;
+    color: var(--saffron-ink);
+    background: var(--saffron-soft);
+    border-radius: 99px;
+    padding: 2px 12px;
+    margin-inline-start: 10px;
+    vertical-align: 3px;
+    white-space: nowrap;
+  }
+
+  .table-wrap { overflow-x: auto; }
+  table { width: 100%; border-collapse: collapse; font-size: .95rem; }
+  thead th {
+    text-align: right;
+    font-size: .78rem;
+    font-weight: 500;
+    color: var(--muted);
+    border-bottom: 1px solid var(--line);
+    padding: 8px 4px;
+  }
+  tbody td {
+    padding: 12px 4px;
+    border-bottom: 1px solid var(--line);
+    vertical-align: top;
+  }
+  tbody tr:last-child td { border-bottom: none; }
+  td:first-child { font-weight: 700; white-space: nowrap; padding-inline-end: 18px; }
+  td:first-child a { color: var(--ink); }
+  td:first-child a:hover { color: var(--blue); }
+  td:nth-child(2) { color: var(--muted); }
+  a.feed {
+    display: inline-flex;
+    align-items: center;
+    gap: 5px;
+    font-size: .78rem;
+    font-weight: 600;
+    color: var(--saffron-ink);
+    background: var(--saffron-soft);
+    border-radius: 99px;
+    padding: 2px 12px;
+    white-space: nowrap;
+  }
+  a.feed:hover { text-decoration: none; filter: brightness(.92); }
+  a.feed svg { width: 11px; height: 11px; }
+
+  /* auxiliary sections (next steps / contribute / thanks) */
+  section.aux { padding-block: 44px 8px; border-top: 1px solid var(--line); scroll-margin-top: 64px; }
+  section.aux p, section.aux li { color: var(--muted); }
+  section.aux img { max-width: 100%; height: auto; }
+  section.aux ul { padding-inline-start: 1.4em; }
+  section.aux input[type="checkbox"] { accent-color: var(--saffron); }
+
+  footer {
+    border-top: 1px solid var(--line);
+    padding-block: 28px 48px;
+    font-size: .85rem;
+    color: var(--muted);
+  }
+
+  /* ---------- mobile: rows become cards ---------- */
+  @media (max-width: 640px) {
+    .hero { padding-block: 52px 32px; }
+    thead { display: none; }
+    table, tbody, tr, td { display: block; }
+    tbody tr { padding-block: 14px; border-bottom: 1px solid var(--line); }
+    tbody tr:last-child { border-bottom: none; }
+    tbody td { padding: 2px 0; border: none; }
+    td:first-child { white-space: normal; font-size: 1.02rem; }
+    a.feed { margin-top: 6px; }
+  }
+</style>
+</head>
+<body>
+
+<header class="hero wrap">
+  <div class="eq" aria-hidden="true"><span></span><span></span><span></span><span></span><span></span></div>
+  <p class="eyebrow">فهرستی باز و جمعی، همیشه به‌روز</p>
+  <h1 class="title" id="title">لیست بهترین پادکست‌های فارسی</h1>
+  <p class="tagline" id="tagline">مکانی برای جمع‌آوری بهترین پادکست‌های فارسی در حوزه‌های مختلف.</p>
+  <p class="statline" id="statline"></p>
+  <div class="actions">
+    <a class="btn" href="https://github.com/ashkanRmk/awesome-persian-podcasts#octocat-مشارکت" target="_blank" rel="noopener">افزودن پادکست</a>
+    <a class="ghost" href="https://github.com/ashkanRmk/awesome-persian-podcasts" target="_blank" rel="noopener">مشاهده در گیت‌هاب ←</a>
+  </div>
+</header>
+
+<nav class="chips" id="chips" aria-label="دسته‌بندی‌ها" hidden></nav>
+
+<main class="wrap">
+  <div class="state" id="state">در حال دریافت فهرست…</div>
+  <div id="content"></div>
+</main>
+
+<footer class="wrap">
+  این صفحه محتوای خود را مستقیم از <a href="https://github.com/ashkanRmk/awesome-persian-podcasts/blob/master/README.md" target="_blank" rel="noopener">README مخزن</a> می‌خواند و با هر تغییر آن، خودبه‌خود به‌روز می‌شود.
+</footer>
+
+<noscript>
+  <div style="max-width:860px;margin:40px auto;padding:0 20px;text-align:center">
+    برای نمایش این فهرست، جاوااسکریپت لازم است. می‌توانید فهرست را
+    <a href="https://github.com/ashkanRmk/awesome-persian-podcasts">در گیت‌هاب</a> ببینید.
+  </div>
+</noscript>
+
+<script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+<script>
+(function () {
+  'use strict';
+
+  var REPO = 'https://github.com/ashkanRmk/awesome-persian-podcasts';
+  var RAW = 'https://raw.githubusercontent.com/ashkanRmk/awesome-persian-podcasts/master/README.md';
+
+  var EMOJI = {
+    headphones: '🎧', mag_right: '🔎', exclamation: '❗', family_man_woman_girl_boy: '👨‍👩‍👧‍👦',
+    book: '📖', computer: '💻', books: '📚', performing_arts: '🎭', circus_tent: '🎪',
+    microscope: '🔬', briefcase: '💼', speech_balloon: '💬', heart: '❤️', notes: '🎶',
+    runner: '🏃', man_health_worker: '👨‍⚕️', abc: '🔤', detective: '🕵️', newspaper: '📰',
+    airplane: '✈️', heavy_check_mark: '✔️', clipboard: '📋', octocat: '🐙', back: '🔙',
+    busts_in_silhouette: '👥'
+  };
+
+  var RSS_ICON = '<svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M6.18 17.82a2.18 2.18 0 1 1-4.36 0 2.18 2.18 0 0 1 4.36 0zM1.82 8.91v3.05c5.65 0 10.22 4.57 10.22 10.22h3.05c0-7.33-5.94-13.27-13.27-13.27zM1.82 2v3.05c9.42 0 17.13 7.71 17.13 17.13H22C22 11.03 12.97 2 1.82 2z"/></svg>';
+
+  function faNum(n) { return Number(n).toLocaleString('fa-IR'); }
+
+  function showError() {
+    var s = document.getElementById('state');
+    s.innerHTML = 'دریافت فهرست ممکن نشد. اتصال اینترنت را بررسی کنید یا فهرست را ' +
+      '<a href="' + REPO + '" target="_blank" rel="noopener">در گیت‌هاب</a> ببینید.';
+  }
+
+  function fetchReadme() {
+    // no-cache: always revalidate so the page reflects the current README
+    var opts = { cache: 'no-cache' };
+    return fetch('README.md', opts).then(function (r) {
+      if (!r.ok) throw new Error(r.status);
+      return r.text();
+    }).catch(function () {
+      return fetch(RAW, opts).then(function (r) {
+        if (!r.ok) throw new Error(r.status);
+        return r.text();
+      });
+    });
+  }
+
+  function preprocess(md) {
+    return md
+      .replace(/^\s*<\/?div[^>]*>\s*$/gm, '')                 // drop dir wrappers (page is already RTL)
+      .replace(/:([a-z0-9_+-]+):/gi, function (m, code) {
+        return EMOJI.hasOwnProperty(code) ? EMOJI[code] : '';
+      });
+  }
+
+  // Split rendered nodes into sections, one per h2 (nodes before the first h2 form the preamble).
+  function sectionize(root) {
+    var sections = [], current = { heading: null, nodes: [] };
+    Array.prototype.slice.call(root.childNodes).forEach(function (node) {
+      if (node.nodeType === 1 && node.tagName === 'H2') {
+        sections.push(current);
+        current = { heading: node, nodes: [] };
+      } else {
+        current.nodes.push(node);
+      }
+    });
+    sections.push(current);
+    return sections;
+  }
+
+  function render(md) {
+    var host = document.createElement('div');
+    host.innerHTML = marked.parse(preprocess(md), { gfm: true });
+
+    // hero: take title + first paragraph from the README itself
+    var h1 = host.querySelector('h1');
+    if (h1) document.getElementById('title').textContent = h1.textContent.replace(/^[^؀-ۿ\w]*/, '').trim();
+    var firstP = host.querySelector('p');
+    if (firstP && firstP.textContent.trim()) document.getElementById('tagline').textContent = firstP.textContent.trim();
+
+    var sections = sectionize(host);
+    var content = document.getElementById('content');
+    var chips = document.getElementById('chips');
+    var totalPodcasts = 0, totalCats = 0, sortNote = '';
+
+    sections.forEach(function (sec) {
+      if (!sec.heading) return; // preamble (h1/tagline already lifted; TOC quick-links live under an h2)
+      var name = sec.heading.textContent.replace(/[:：]\s*$/, '').trim();
+
+      if (name.indexOf('فهرست موضوعات') !== -1) return; // the chips nav replaces the README TOC
+
+      if (name.indexOf('تذکر') !== -1) { // one-line sort notice → merged into the hero stat line
+        sortNote = sec.nodes.map(function (n) { return n.textContent || ''; }).join(' ').trim();
+        return;
+      }
+
+      var el = document.createElement('section');
+      el.appendChild(sec.heading);
+      sec.nodes.forEach(function (n) { el.appendChild(n); });
+
+      // strip back-to-toc links and horizontal rules — layout handles the separation
+      Array.prototype.slice.call(el.querySelectorAll('a')).forEach(function (a) {
+        if (a.textContent.indexOf('بازگشت به فهرست') !== -1) {
+          var p = a.closest('p') || a; p.parentNode && p.parentNode.removeChild(p);
+        }
+      });
+      Array.prototype.slice.call(el.querySelectorAll('hr')).forEach(function (hr) { hr.remove(); });
+
+      var rows = el.querySelectorAll('tbody tr').length;
+      if (rows > 0) {
+        el.className = 'cat';
+        el.id = 'cat-' + totalCats;
+        totalCats++;
+        totalPodcasts += rows;
+
+        var badge = document.createElement('span');
+        badge.className = 'count';
+        badge.textContent = faNum(rows) + ' پادکست';
+        sec.heading.appendChild(badge);
+
+        var chip = document.createElement('a');
+        chip.className = 'chip';
+        chip.href = '#' + el.id;
+        chip.innerHTML = '<span></span><small></small>';
+        chip.firstChild.textContent = name;
+        chip.lastChild.textContent = faNum(rows);
+        chips.appendChild(chip);
+
+        Array.prototype.slice.call(el.querySelectorAll('table')).forEach(function (t) {
+          var wrap = document.createElement('div');
+          wrap.className = 'table-wrap';
+          t.parentNode.insertBefore(wrap, t);
+          wrap.appendChild(t);
+        });
+      } else {
+        el.className = 'aux';
+      }
+      content.appendChild(el);
+    });
+
+    // links: absolutize repo-relative hrefs, open externals in a new tab, badge the feed links
+    Array.prototype.slice.call(content.querySelectorAll('a')).forEach(function (a) {
+      var href = a.getAttribute('href') || '';
+      if (href && href.charAt(0) !== '#' && !/^https?:\/\//i.test(href)) {
+        a.setAttribute('href', REPO + '/' + href.replace(/^\.?\//, ''));
+      }
+      if (a.getAttribute('href') && a.getAttribute('href').charAt(0) !== '#') {
+        a.setAttribute('target', '_blank');
+        a.setAttribute('rel', 'noopener');
+      }
+      if (a.textContent.trim() === 'فید') {
+        a.className = 'feed';
+        a.innerHTML = RSS_ICON + 'فید RSS';
+      }
+    });
+
+    // hide images whose source is broken (e.g. a dead badge service) instead of
+    // showing the browser's broken-image glyph
+    Array.prototype.slice.call(content.querySelectorAll('img')).forEach(function (img) {
+      img.addEventListener('error', function () { img.style.display = 'none'; });
+      if (img.complete && img.naturalWidth === 0) img.style.display = 'none';
+    });
+
+    document.getElementById('statline').innerHTML =
+      '<b>' + faNum(totalPodcasts) + '</b> پادکست در <b>' + faNum(totalCats) + '</b> دسته‌بندی' +
+      (sortNote ? ' — ' + sortNote : '');
+
+    document.getElementById('state').remove();
+    if (chips.children.length) chips.hidden = false;
+    spy(chips);
+  }
+
+  // scroll-spy: highlight the chip of the section in view
+  function spy(chips) {
+    if (!('IntersectionObserver' in window)) return;
+    var byId = {};
+    Array.prototype.slice.call(chips.children).forEach(function (c) {
+      byId[c.getAttribute('href').slice(1)] = c;
+    });
+    var active = null, idleTimer = null;
+    // center the active chip only once page scrolling settles: any programmatic
+    // scroll of the chips bar mid-flight cancels Chromium's smooth page scroll
+    function centerActive() {
+      if (!active) return;
+      chips.scrollLeft = active.offsetLeft - chips.clientWidth / 2 + active.clientWidth / 2;
+    }
+    window.addEventListener('scroll', function () {
+      clearTimeout(idleTimer);
+      idleTimer = setTimeout(centerActive, 200);
+    }, { passive: true });
+    var io = new IntersectionObserver(function (entries) {
+      entries.forEach(function (e) {
+        if (!e.isIntersecting) return;
+        var chip = byId[e.target.id];
+        if (!chip || chip === active) return;
+        if (active) active.classList.remove('active');
+        active = chip;
+        chip.classList.add('active');
+      });
+    }, { rootMargin: '-15% 0px -75% 0px' });
+    document.querySelectorAll('section.cat').forEach(function (s) { io.observe(s); });
+  }
+
+  if (typeof marked === 'undefined') { showError(); return; }
+  fetchReadme().then(render).catch(function (err) {
+    console.error(err);
+    showError();
+  });
+})();
+</script>
+</body>
+</html>
