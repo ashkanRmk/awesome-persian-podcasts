@@ -30,15 +30,12 @@
   - [:newspaper: خبری و اجتماعی](#newspaper-خبری-و-اجتماعی)
   - [:airplane: سفر و گردشگری](#airplane-سفر-و-گردشگری)
   - [:heavy_check_mark: موضوعات دیگر](#heavy_check_mark-موضوعات-دیگر)
-  - [:clipboard: قدم‌های بعدی](#clipboard-قدمهای-بعدی)
   - [:octocat: مشارکت](#octocat-مشارکت)
   - [:heart: باتشکر از کسانی که بهمون کمک کردند:](#heart-باتشکر-از-کسانی-که-بهمون-کمک-کردند)
 
 
 <div dir="ltr">
 
-> ### :clipboard: [قدم‌های بعدی](#user-content-clipboard-قدمهای-بعدی-1)
->
 > ### :busts_in_silhouette: [مشارکت](#octocat-مشارکت)
 
 </div>
@@ -472,16 +469,6 @@
 
 ***
 
-## :clipboard: قدم‌های بعدی
-
-<div dir="ltr">
-
-- [X] ~~ایجاد یک [صفحه استاتیک](https://ashkan-rmk.github.io/awesome-persian-podcasts/) برای دسترسی بهتر~~
-- [X] ~~دسته‌بندی موضوعی پادکست‌ها~~
-- [X] ~~مرتب‌سازی پادکست‌ها بر اساس حروف الفبا~~
-
-</div>
-
 ## :octocat: مشارکت
 
 برای کامل‌تر شدن این لیست از شما می‌خوایم تا پادکست‌های خوبی که توی حوزه‌های اشاره شده گوش میدین رو با ما از طریق پول ریکوئست به اشتراک بذارین
@@ -491,5 +478,10 @@
 
 ## :heart: باتشکر از کسانی که بهمون کمک کردند:
 <div dir="ltr">
-<a href="graphs/contributors"><img src="https://opencollective.com/awesome-persian-podcasts/contributors.svg?width=890&button=false" /></a>
+<a href="https://github.com/ashkanRmk/awesome-persian-podcasts/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=ashkanRmk/awesome-persian-podcasts" alt="Contributors" />
+</a>
+
+Made with [contrib.rocks](https://contrib.rocks).
+
 </div>
