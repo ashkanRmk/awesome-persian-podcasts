@@ -362,6 +362,7 @@
 
  نام پادکست | توضیحات
  --- | ---
+[EMA English](https://mitinull.vercel.app/fa/ema-english/) | آموزش جذاب زبان انگلیسی همراه با ترانه
 [RedLight](https://t.me/Dezhavu_pro) | توضیح یافت نشد :)
 [Redrum](https://shenoto.com/REDRUM) | پادکستی برای جرم و جنایت 
 [انسانک](https://ensanak.com) | پادکست فارسی انسانک مجموعه‌ای از جستارهای صوتی است با قصد تامل در تجربیات زیسته به روایت حسام ایپکچی
