@@ -123,16 +123,19 @@
   /* ---------- sticky category chips ---------- */
   .chips {
     position: sticky;
-    top: 0;
+    top: 10px;
     z-index: 10;
+    width: min(820px, calc(100% - 40px)); /* stays inside the .wrap content column */
+    margin-inline: auto;
     background: var(--chip-glass);
     backdrop-filter: blur(10px);
     -webkit-backdrop-filter: blur(10px);
-    border-block: 1px solid var(--line);
+    border: 1px solid var(--line);
+    border-radius: 99px;
     display: flex;
     gap: 8px;
     overflow-x: auto;
-    padding: 10px max(20px, calc((100vw - 860px) / 2 + 20px));
+    padding: 8px 14px;
     scrollbar-width: none;
   }
   .chips::-webkit-scrollbar { display: none; }
