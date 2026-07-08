@@ -61,6 +61,8 @@
 
 | نام پادکست | توضیحات | فید |
 | --- | ------- | ---------- |
+| [داستامینوفن](https://podcasters.spotify.com/pod/show/dastaminophen) | داستامینوفِن یه پادکست فارسی برای دوستداران قصه است که جن و پری و پسر کاکل زری تا رستم و سهراب و گودرز شاهنامه قصه میگه | [فید](https://anchor.fm/s/44a4ad78/podcast/rss) |
+| [چای با بنفشه](https://chaibabanafsheh.com/) | چای از شما؛ قصه از من| [فید](https://anchor.fm/s/204d1bcc/podcast/rss) |
 | [Epitome Books](https://epitomebooks.ir/) | جایی برای شنیدنِ خلاصه کتاب‌ها | [فید](https://anchor.fm/s/fe11cc0/podcast/rss) |
   | [آرته](https://artebox.ir/) | تاریخ شفاهی فرهنگ و هنر و ادب معاصر ایران | [فید](https://feed.podbean.com/artebox/feed.xml) |
    | [اكوكست](https://castbox.fm/channel/id4420514) | روایتی از داستان های کهن به زبان امروزی | |
