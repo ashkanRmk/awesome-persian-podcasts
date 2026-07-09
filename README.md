@@ -283,7 +283,7 @@
 | [مرز](https://soundcloud.com/radiomarz) | اینجا درباره موضوعاتی که محل اختلافند و باعث میشن دنیای آدمها از هم سوا بشه صحبت می‌کنیم | |
 | [مستی و راستی](https://soundcloud.com/kingraam/sets/podcast) | پادکست مستی و راستی روایتی دیگر از جامعه و خاطرات کینگ رام و همراهانش در زندگیست. | |
 | [میرکت](https://t.me/Meerkat_Podcast) | گپ و گفتگوی اسماعیل میرفخرایی و سیاوش صفاریان‌پور | [فید](https://shenoto.com/service/api/feed/Meerkat_podcast) |
-| [هلی تاک](https://castbox.fm/channel/Hellitalk-id1475736?country=us) | پادکست گفتگو محور در مورد توسعه فردی | [فید](https://hellitalk.podbean.com/feed.xml) |
+| [هلی تاک](https://hellitalk.com/podcast/) | پادکست گفتگو محور در مورد توسعه فردی | [فید](https://feeds.acast.com/public/shows/67fd69dedf6cd9fb98b6f817) |
 | [طبقه 16](https://www.youtube.com/channel/UCkQHRufVtt7tchYqo5_mwww) | پادکست گفتگو محور در مورد کسب و کار و استارتاپ به میزبانی سهیل علوی بنیانگذار ریحون | |
 
 [:back: بازگشت به فهرست](#mag_right-فهرست-موضوعات)
