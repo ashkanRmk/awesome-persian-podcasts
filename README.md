@@ -230,6 +230,9 @@
 | [گمانه](https://gomaneh.net/?cat=2613) | ستاد مبارزه با چرندیات | |
 | [لوح سفید](https://castbox.fm/channel/id1706834) | لوح سفید پادکستی در مورد زبان، مفاهیم زبانشناسی و کاربرد آنها در زندگی روزمره که شاید به آنها توجه نمی‌کنیم. | [فید](https://anchor.fm/s/826d484/podcast/rss) |
 | [Jafarilab](https://anchor.fm/mohieddin-jafari/episodes/Episode-1---For-Ph-D--students-e9plhf) | پادکستی برای زیست شناسی محاسباتی و ترویج علم | [فید](https://anchor.fm/s/11c457c8/podcast/rss) |
+| [پادکست بنفش | Banafsh Podcast](https://castbox.fm/channel/7308198?country=us) | روایت گپ‌و‌گفتی درباره خرافه‌ها، تفکر انتقادی و توضیح علمی مفاهیم رایج | |
+| [خداحافظ آفریقا](https://castbox.fm/channel/7308417?country=us) | گفت‌وگو درباره انسان‌دیرین‌شناسی، تکامل انسان و تاریخچه سفر انسان | |
+| [مدرسه زندگی فارسی](https://castbox.fm/channel/id2215963?country=us) | محفل مطالعات میان‌رشته‌ای با محتوای کاربردی برای زندگی و کسب‌وکار، با تکیه بر فلسفه، روانشناسی، اقتصاد، تاریخ و سایر علوم | |
 
 
 [:back: بازگشت به فهرست](#mag_right-فهرست-موضوعات)
@@ -252,6 +255,7 @@
 | [سبکتو](http://sabketo.com/) | موفقیت همراه با پادکست‌های صوتی به زبان ساده برای همه | [فید](https://microketab.sabketo.com/podcast-feed) |
 | [سکه](https://sekkepodcast.ir/) | پادکستی اقتصادی برای غیر اقتصاددان‌ها - گپ‌وگفت‌های اقتصادی | |
 | [مسیرآفرین](http://www.farshadakhtarian.com) | پادکستی از فرشاد اختریان | [فید](https://hearthis.at/farshad.akhtarian/podcast/) |
+| [شعاع | Shoa Cast](https://castbox.fm/channel/id4964548?country=us) | گفتگوهایی از دل مدیران عامل و کارآفرینان برای علاقه‌مندان به کسب‌وکار | |
 
 
 [:back: بازگشت به فهرست](#mag_right-فهرست-موضوعات)
@@ -434,7 +438,7 @@
  --- | ---
 [RedLight](https://t.me/Dezhavu_pro) | توضیح یافت نشد :)
 [انسانک](https://ensanak.com) | پادکست فارسی انسانک مجموعه‌ای از جستارهای صوتی است با قصد تامل در تجربیات زیسته به روایت حسام ایپکچی
-[بازی‌گوش](https://castbox.fm/channel/id2240403) | یک پادکست درباره‌ی همه‌ی انواع بازی‌. بازی فقط دسته و کنسول نیست. 
+[بازی‌گوش](https://castbox.fm/channel/id2240403) | یک پادکست درباره‌ی همه‌ی انواع بازی‌. بازی فقط دسته و کنسول نیست.
 [جدی](https://soundcloud.com/jeddi-podcasts/sets/jeddi-podcasts) | توضیح یافت نشد :)
 [چوچای](https://t.me/chochay) | توضیح یافت نشد :)
 [خرس‌های گریزلی مقیم اینجا](https://soundcloud.com/residentgrizzly) | ذهن‌نوشته‌ها و گفتگوهای خرس‌های گریزلی مقیم اینجا
@@ -447,7 +451,7 @@
 [ دُچْاراٰنِه](https://t.me/docharane) |این رادیو دچارانه‌ست!
 [ دلخون](https://t.me/radio_delkhon) | توضیح یافت نشد :)
 [روژان](https://t.me/rojanradio) | در حاشیه الوند، کردها دختران چشم رنگی خود را روژان نام گذاری می کنند
-[ روغن حبه‌ی انگور](https://soundcloud.com/tehranpodcast/sets/radioangoor) | کاری مشترک از مادر و پسری‌ست که در هر قسمت، قسمتی از کتاب، قسمتی از فیلم و صدایی از محیط را میشنویم 
+[ روغن حبه‌ی انگور](https://soundcloud.com/tehranpodcast/sets/radioangoor) | کاری مشترک از مادر و پسری‌ست که در هر قسمت، قسمتی از کتاب، قسمتی از فیلم و صدایی از محیط را میشنویم
 [ فنگ](https://soundcloud.com/radiofang) | توضیح یافت نشد :)
 [قیراط](https://castbox.fm/channel/Ghirat-Podcast-%7C-%D9%BE%D8%A7%D8%AF%DA%A9%D8%B3%D8%AA-%D9%82%DB%8C%D8%B1%D8%A7%D8%B7-id2810691) | اولین پادکست تخصصی طلا و جواهر
 [ساده است](https://soundcloud.com/saman-attarian/sets/oqaciezlfm6s) | زندگی ساده است و سادگی اعجاز آن است
@@ -463,7 +467,7 @@
 [ویکی‌پز](https://wikipazpodcast.com/) | ویکی‌پز جایی برای یادگیری، بستری برای خاطرات و امکانی برای تاریخ است. هر اپیزود پادکست ویکی‌پز به یک غذای اختصاص دارد و این غذا بهانه‌ای برای سرک کشیدن در حوزه‌های مختلف فرهنگی و تاریخی مردمان ایران و سایر کشورهای جهان است
 [هیچ‌کیدز](http://manjanigh.com/?cat=5) | توضیح یافت نشد :)
 [یک پنجره](https://castbox.fm/channel/%D9%BE%D8%A7%D8%AF%DA%A9%D8%B3%D8%AA-%D9%81%D8%A7%D8%B1%D8%B3%DB%8C-%DB%8C%DA%A9-%D9%BE%D9%86%D8%AC%D8%B1%D9%87-YekPanjare-id2418435?country=us) | در هر قسمت از پادکست فارسی یک‌ پنجره، یک جستار یا تجربه‌ی شخصی یک نویسنده یا خبرنگار را روایت می‌کنیم
-[یک پزشک](https://podcasts.google.com/feed/aHR0cDovL3d3dy4xcGV6ZXNoay5jb20vYXRvbS54bWw=) | پادکست علیرضا مجیدی از وبلاگ یک پزشک 
+[یک پزشک](https://podcasts.google.com/feed/aHR0cDovL3d3dy4xcGV6ZXNoay5jb20vYXRvbS54bWw=) | پادکست علیرضا مجیدی از وبلاگ یک پزشک
 
 [:back: بازگشت به فهرست](#mag_right-فهرست-موضوعات)
 
