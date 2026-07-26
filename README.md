@@ -232,6 +232,7 @@
 | [Jafarilab](https://anchor.fm/mohieddin-jafari/episodes/Episode-1---For-Ph-D--students-e9plhf) | پادکستی برای زیست شناسی محاسباتی و ترویج علم | [فید](https://anchor.fm/s/11c457c8/podcast/rss) |
 | [پادکست بنفش | Banafsh Podcast](https://castbox.fm/channel/7308198?country=us) | روایت گپ‌و‌گفتی درباره خرافه‌ها، تفکر انتقادی و توضیح علمی مفاهیم رایج | |
 | [خداحافظ آفریقا](https://castbox.fm/channel/7308417?country=us) | گفت‌وگو درباره انسان‌دیرین‌شناسی، تکامل انسان و تاریخچه سفر انسان | |
+| [مدرسه زندگی فارسی](https://castbox.fm/channel/id2215963?country=us) | محفل مطالعات میان‌رشته‌ای با محتوای کاربردی برای زندگی و کسب‌وکار، با تکیه بر فلسفه، روانشناسی، اقتصاد، تاریخ و سایر علوم | |
 
 
 [:back: بازگشت به فهرست](#mag_right-فهرست-موضوعات)
